@@ -1,5 +1,7 @@
 # 📦 Supplier Receiving Inspection Analyzer
 
+**[Live app](https://supplier-receiving-inspection.streamlit.app)** · **[Dataset on Hugging Face](https://huggingface.co/datasets/MarusFaulkner/supplier-receiving-inspection)**
+
 A Python/Streamlit app for **incoming (receiving) inspection** analytics, modeled on how SAP MM and QM record the process: a goods receipt posts stock into quality inspection, an inspection lot is created, and the usage decision releases the stock or blocks it for return or scrap.
 
 ```
@@ -50,7 +52,7 @@ Uploads are validated before analysis, and problems are reported with spreadshee
 app.py          Streamlit UI
 sri_core.py     Data model, synthetic data, metrics, validation, reconciliation (no UI code)
 tests/          Unit tests with hand-calculated expected values
-sample_data/    Synthetic inspection-lot CSV
+sample_data/    Synthetic inspection-lot CSV (also published as a Hugging Face dataset)
 ```
 
 ---
