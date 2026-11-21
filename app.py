@@ -37,7 +37,7 @@ source = st.sidebar.radio("Data", ["Demo data (synthetic)", "Upload inspection l
 if source.startswith("Demo"):
     lots, mvts = demo_data(date.today())
 else:
-    template = s.generate_lots(today=date.today()).head(5)[s.REQUIRED_COLUMNS]
+    template = s.generate_lots(today=date.today()).head(5)[s.REQUIRED_COLUMNS + s.OPTIONAL_COLUMNS]
     st.sidebar.download_button("Download CSV template", template.to_csv(index=False),
                                "inspection_lots_template.csv", "text/csv")
     up = st.sidebar.file_uploader("Inspection lots CSV", type=["csv"])
@@ -95,9 +95,13 @@ c[0].metric("Lots inspected", f"{k['decided']:,}", help="Lots with a usage decis
 c[1].metric("Lot acceptance", f"{k['lar']:.1f}%")
 c[2].metric("Rejected PPM", f"{k['ppm']:,.0f}", help="Rejected quantity per million received")
 c[3].metric("Median cycle", f"{k['median_cycle']:.0f} d", help="GR date to usage decision")
-c[4].metric(f"QI stock · {k['qi_lots']} lots", f"${k['qi_value']:,.0f}",
+def lots_label(n: int) -> str:
+    return f"{n} lot" if n == 1 else f"{n} lots"
+
+
+c[4].metric(f"QI stock · {lots_label(k['qi_lots'])}", f"${k['qi_value']:,.0f}",
             help=f"Awaiting inspection; oldest lot {k['oldest_qi_days']} days")
-c[5].metric(f"Blocked · {k['blocked_lots']} lots", f"${k['blocked_value']:,.0f}",
+c[5].metric(f"Blocked · {lots_label(k['blocked_lots'])}", f"${k['blocked_value']:,.0f}",
             help="Rejected stock still waiting for a disposition (RTV or scrap)")
 
 scorecard = s.supplier_scorecard(view, th, today)

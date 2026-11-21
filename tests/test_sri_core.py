@@ -97,6 +97,12 @@ class TestValidation(unittest.TestCase):
         self.assertIn("exceeds received", msg)
         self.assertIn("needs a defect category", msg)
 
+    def test_optional_inspector_column_is_added(self):
+        df = tiny()
+        self.assertNotIn("inspector", df.drop(columns="inspector", errors="ignore").columns)
+        clean = s.validate_lots(df.drop(columns="inspector", errors="ignore"))
+        self.assertIn("inspector", clean.columns)
+
     def test_missing_column(self):
         with self.assertRaises(s.DataError):
             s.validate_lots(tiny().drop(columns="po_number"))

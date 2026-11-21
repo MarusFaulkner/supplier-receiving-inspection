@@ -80,6 +80,9 @@ REQUIRED_COLUMNS = [
     "qty_rejected", "defect_category", "usage_decision", "ud_date", "disposition",
 ]
 
+#: Optional columns: added blank when an uploaded file doesn't have them.
+OPTIONAL_COLUMNS = ["inspector"]
+
 UD_ACCEPT, UD_REJECT, UD_PENDING = "A", "R", "PENDING"
 DISPOSITIONS = {"", "RTV", "SCRAP", "PENDING"}
 
@@ -215,8 +218,11 @@ def validate_lots(df: pd.DataFrame) -> pd.DataFrame:
     if missing:
         raise DataError(f"Missing column(s): {', '.join(missing)}.")
     d = df.copy()
+    for c in OPTIONAL_COLUMNS:
+        if c not in d.columns:
+            d[c] = ""
     for c in ("inspection_lot", "po_number", "supplier_id", "supplier_name", "material",
-              "material_desc", "unit", "defect_category", "usage_decision", "disposition"):
+              "material_desc", "unit", "defect_category", "usage_decision", "disposition", "inspector"):
         d[c] = d[c].fillna("").astype(str).str.strip()
     d["usage_decision"] = d["usage_decision"].str.upper()
     d["disposition"] = d["disposition"].str.upper()
