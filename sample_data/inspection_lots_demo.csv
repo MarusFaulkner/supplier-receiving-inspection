@@ -1,0 +1,610 @@
+inspection_lot,po_number,supplier_id,supplier_name,material,material_desc,gr_date,qty_received,unit,unit_price,qty_rejected,defect_category,usage_decision,ud_date,disposition,inspector
+010000011497,4500106927,V-10001,Kestrel Coil Components,MAT-CL-8802,Tap changer lead set,2025-11-26,2,SET,175.0,0,,A,2025-11-30,,T. Nakamura
+010000009912,4500106092,V-10008,Vantor Electrical Parts,MAT-EL-7702,Pressure relief device,2025-11-26,11,EA,540.0,0,,A,2025-11-27,,J. Avery
+010000010687,4500106544,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2025-11-27,14,EA,210.0,0,,A,2025-11-28,,J. Avery
+010000002256,4500101334,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2025-11-27,18,EA,96.0,0,,A,2025-11-28,,R. Delgado
+010000011533,4500106943,V-10001,Kestrel Coil Components,MAT-CL-8802,Tap changer lead set,2025-11-30,14,SET,175.0,0,,A,2025-11-30,,K. Osei
+010000001483,4500100872,V-10006,Halvorsen Copper & Wire,MAT-CU-2210,"Copper conductor, CTC 6x12",2025-12-01,500,KG,14.2,0,,A,2025-12-04,,J. Avery
+010000008459,4500105151,V-10007,Pinecrest Paint Systems,MAT-PT-6602,Polyurethane topcoat ANSI 70,2025-12-01,21,EA,310.0,0,,A,2025-12-02,,R. Delgado
+010000009935,4500106107,V-10008,Vantor Electrical Parts,MAT-EL-7702,Pressure relief device,2025-12-02,16,EA,540.0,0,,A,2025-12-02,,S. Whitfield
+010000007811,4500104632,V-10007,Pinecrest Paint Systems,MAT-PT-6601,"Epoxy primer, gray (5 gal)",2025-12-02,8,EA,240.0,0,,A,2025-12-03,,K. Osei
+010000009951,4500106112,V-10008,Vantor Electrical Parts,MAT-EL-7702,Pressure relief device,2025-12-03,21,EA,540.0,0,,A,2025-12-04,,S. Whitfield
+010000000588,4500100350,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2025-12-03,2,SET,112.0,0,,A,2025-12-09,,K. Osei
+010000009963,4500106116,V-10008,Vantor Electrical Parts,MAT-EL-7702,Pressure relief device,2025-12-04,11,EA,540.0,0,,A,2025-12-05,,K. Osei
+010000001522,4500100892,V-10006,Halvorsen Copper & Wire,MAT-CU-2210,"Copper conductor, CTC 6x12",2025-12-04,500,KG,14.2,0,,A,2025-12-05,,R. Delgado
+010000010704,4500106550,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2025-12-04,22,EA,210.0,0,,A,2025-12-05,,T. Nakamura
+010000008461,4500105170,V-10007,Pinecrest Paint Systems,MAT-PT-6602,Polyurethane topcoat ANSI 70,2025-12-05,5,EA,310.0,0,,A,2025-12-07,,K. Osei
+010000007026,4500104108,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2025-12-05,25,EA,22.75,0,,A,2025-12-05,,J. Avery
+010000004377,4500102584,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2025-12-05,3,EA,145.0,0,,A,2025-12-05,,J. Avery
+010000001560,4500100915,V-10006,Halvorsen Copper & Wire,MAT-CU-2210,"Copper conductor, CTC 6x12",2025-12-06,10,KG,14.2,0,,A,2025-12-11,,S. Whitfield
+010000004415,4500102603,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2025-12-07,4,EA,145.0,0,,A,2025-12-10,,K. Osei
+010000007056,4500104111,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2025-12-08,25,EA,22.75,0,,A,2025-12-11,,J. Avery
+010000011570,4500106956,V-10001,Kestrel Coil Components,MAT-CL-8802,Tap changer lead set,2025-12-09,12,SET,175.0,0,,A,2025-12-11,,R. Delgado
+010000009987,4500106118,V-10008,Vantor Electrical Parts,MAT-EL-7702,Pressure relief device,2025-12-09,11,EA,540.0,0,,A,2025-12-09,,K. Osei
+010000002288,4500101344,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2025-12-09,3,EA,96.0,0,,A,2025-12-14,,T. Nakamura
+010000003701,4500102156,V-10003,Oakridge Fastener Supply,MAT-FS-3302,"Stud M20x120, stainless",2025-12-10,100,EA,6.4,0,,A,2025-12-13,,T. Nakamura
+010000002289,4500101367,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2025-12-10,13,EA,96.0,0,,A,2025-12-13,,S. Whitfield
+010000001578,4500100920,V-10006,Halvorsen Copper & Wire,MAT-CU-2210,"Copper conductor, CTC 6x12",2025-12-11,10,KG,14.2,0,,A,2025-12-16,,J. Avery
+010000001582,4500100941,V-10006,Halvorsen Copper & Wire,MAT-CU-2210,"Copper conductor, CTC 6x12",2025-12-11,50,KG,14.2,0,,A,2025-12-11,,J. Avery
+010000000623,4500100354,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2025-12-12,19,SET,112.0,0,,A,2025-12-12,,J. Avery
+010000005402,4500103135,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2025-12-12,6,EA,389.0,0,,A,2025-12-12,,R. Delgado
+010000007086,4500104131,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2025-12-13,10,EA,22.75,0,,A,2025-12-14,,R. Delgado
+010000002324,4500101382,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2025-12-13,17,EA,96.0,0,,A,2025-12-13,,S. Whitfield
+010000004424,4500102613,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2025-12-15,3,EA,145.0,0,,A,2025-12-18,,R. Delgado
+010000002358,4500101404,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2025-12-15,8,EA,96.0,0,,A,2025-12-16,,T. Nakamura
+010000007825,4500104634,V-10007,Pinecrest Paint Systems,MAT-PT-6601,"Epoxy primer, gray (5 gal)",2025-12-17,18,EA,240.0,0,,A,2025-12-21,,T. Nakamura
+010000004461,4500102618,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2025-12-17,20,EA,145.0,0,,A,2025-12-19,,K. Osei
+010000010734,4500106564,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2025-12-17,21,EA,210.0,0,,A,2025-12-18,,J. Avery
+010000010746,4500106579,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2025-12-18,5,EA,210.0,0,,A,2025-12-19,,T. Nakamura
+010000009237,4500105697,V-10008,Vantor Electrical Parts,MAT-EL-7701,Winding temperature indicator,2025-12-19,3,EA,865.0,0,,A,2025-12-23,,K. Osei
+010000002393,4500101425,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2025-12-22,6,EA,96.0,0,,A,2025-12-25,,T. Nakamura
+010000003717,4500102165,V-10003,Oakridge Fastener Supply,MAT-FS-3302,"Stud M20x120, stainless",2025-12-22,100,EA,6.4,0,,A,2025-12-24,,T. Nakamura
+010000004492,4500102633,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2025-12-24,12,EA,145.0,0,,A,2025-12-27,,J. Avery
+010000006347,4500103650,V-10005,Brightwater Gasket Co.,MAT-GK-5501,"Nitrile gasket set, cover",2025-12-24,17,SET,58.0,0,,A,2025-12-24,,J. Avery
+010000002425,4500101438,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2025-12-26,24,EA,96.0,0,,A,2025-12-27,,J. Avery
+010000000018,4500100006,V-10002,Marlowe Insulation Works,MAT-WI-1040,"Winding insulation board, 4 mm",2025-12-27,10,EA,38.5,0,,A,2025-12-31,,T. Nakamura
+010000009274,4500105707,V-10008,Vantor Electrical Parts,MAT-EL-7701,Winding temperature indicator,2025-12-27,23,EA,865.0,0,,A,2025-12-30,,K. Osei
+010000008466,4500105176,V-10007,Pinecrest Paint Systems,MAT-PT-6602,Polyurethane topcoat ANSI 70,2025-12-28,9,EA,310.0,0,,A,2025-12-30,,K. Osei
+010000000662,4500100373,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2025-12-28,9,SET,112.0,0,,A,2025-12-29,,K. Osei
+010000001586,4500100959,V-10006,Halvorsen Copper & Wire,MAT-CU-2210,"Copper conductor, CTC 6x12",2025-12-28,50,KG,14.2,0,,A,2025-12-30,,K. Osei
+010000003730,4500102182,V-10003,Oakridge Fastener Supply,MAT-FS-3302,"Stud M20x120, stainless",2025-12-28,10,EA,6.4,0,,A,2025-12-30,,S. Whitfield
+010000000025,4500100025,V-10002,Marlowe Insulation Works,MAT-WI-1040,"Winding insulation board, 4 mm",2025-12-29,100,EA,38.5,0,,A,2025-12-30,,R. Delgado
+010000010008,4500106131,V-10008,Vantor Electrical Parts,MAT-EL-7702,Pressure relief device,2025-12-29,5,EA,540.0,0,,A,2025-12-30,,S. Whitfield
+010000000669,4500100379,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2025-12-30,8,SET,112.0,0,,A,2025-12-30,,J. Avery
+010000004524,4500102654,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2025-12-31,2,EA,145.0,0,,A,2026-01-01,,T. Nakamura
+010000008498,4500105190,V-10007,Pinecrest Paint Systems,MAT-PT-6602,Polyurethane topcoat ANSI 70,2026-01-01,4,EA,310.0,0,,A,2026-01-01,,J. Avery
+010000005413,4500103141,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-01-01,9,EA,389.0,1,Dimensional,R,2026-01-05,RTV,J. Avery
+010000004556,4500102670,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2026-01-01,10,EA,145.0,0,,A,2026-01-02,,K. Osei
+010000004567,4500102681,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2026-01-02,24,EA,145.0,0,,A,2026-01-04,,T. Nakamura
+010000008500,4500105214,V-10007,Pinecrest Paint Systems,MAT-PT-6602,Polyurethane topcoat ANSI 70,2026-01-02,23,EA,310.0,0,,A,2026-01-05,,S. Whitfield
+010000001587,4500100961,V-10006,Halvorsen Copper & Wire,MAT-CU-2210,"Copper conductor, CTC 6x12",2026-01-03,20,KG,14.2,0,,A,2026-01-07,,K. Osei
+010000005418,4500103161,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-01-04,6,EA,389.0,0,,A,2026-01-05,,T. Nakamura
+010000002448,4500101443,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2026-01-04,24,EA,96.0,0,,A,2026-01-04,,T. Nakamura
+010000001618,4500100966,V-10006,Halvorsen Copper & Wire,MAT-CU-2210,"Copper conductor, CTC 6x12",2026-01-04,25,KG,14.2,0,,A,2026-01-06,,K. Osei
+010000005426,4500103166,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-01-05,7,EA,389.0,0,,A,2026-01-05,,T. Nakamura
+010000006363,4500103661,V-10005,Brightwater Gasket Co.,MAT-GK-5501,"Nitrile gasket set, cover",2026-01-05,3,SET,58.0,0,,A,2026-01-05,,S. Whitfield
+010000007111,4500104144,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2026-01-06,200,EA,22.75,0,,A,2026-01-06,,R. Delgado
+010000000706,4500100396,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2026-01-06,19,SET,112.0,0,,A,2026-01-07,,T. Nakamura
+010000010018,4500106152,V-10008,Vantor Electrical Parts,MAT-EL-7702,Pressure relief device,2026-01-07,22,EA,540.0,0,,A,2026-01-13,,J. Avery
+010000010053,4500106156,V-10008,Vantor Electrical Parts,MAT-EL-7702,Pressure relief device,2026-01-08,4,EA,540.0,0,,A,2026-01-08,,S. Whitfield
+010000009303,4500105727,V-10008,Vantor Electrical Parts,MAT-EL-7701,Winding temperature indicator,2026-01-08,14,EA,865.0,0,,A,2026-01-09,,S. Whitfield
+010000002484,4500101449,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2026-01-09,13,EA,96.0,0,,A,2026-01-15,,R. Delgado
+010000011608,4500106972,V-10001,Kestrel Coil Components,MAT-CL-8802,Tap changer lead set,2026-01-10,2,SET,175.0,0,,A,2026-01-14,,S. Whitfield
+010000010070,4500106171,V-10008,Vantor Electrical Parts,MAT-EL-7702,Pressure relief device,2026-01-10,12,EA,540.0,0,,A,2026-01-10,,R. Delgado
+010000000055,4500100030,V-10002,Marlowe Insulation Works,MAT-WI-1040,"Winding insulation board, 4 mm",2026-01-11,25,EA,38.5,5,Documentation,R,2026-01-18,RTV,K. Osei
+010000005433,4500103174,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-01-12,6,EA,389.0,1,Appearance,R,2026-01-19,SCRAP,J. Avery
+010000007144,4500104167,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2026-01-12,25,EA,22.75,0,,A,2026-01-14,,J. Avery
+010000006373,4500103682,V-10005,Brightwater Gasket Co.,MAT-GK-5501,"Nitrile gasket set, cover",2026-01-13,21,SET,58.0,0,,A,2026-01-15,,T. Nakamura
+010000004582,4500102689,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2026-01-13,24,EA,145.0,0,,A,2026-01-19,,R. Delgado
+010000011613,4500106974,V-10001,Kestrel Coil Components,MAT-CL-8802,Tap changer lead set,2026-01-13,17,SET,175.0,0,,A,2026-01-16,,T. Nakamura
+010000007826,4500104637,V-10007,Pinecrest Paint Systems,MAT-PT-6601,"Epoxy primer, gray (5 gal)",2026-01-14,12,EA,240.0,0,,A,2026-01-16,,T. Nakamura
+010000001653,4500100980,V-10006,Halvorsen Copper & Wire,MAT-CU-2210,"Copper conductor, CTC 6x12",2026-01-14,50,KG,14.2,0,,A,2026-01-15,,J. Avery
+010000007190,4500104197,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2026-01-15,500,EA,22.75,0,,A,2026-01-17,,T. Nakamura
+010000007175,4500104186,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2026-01-15,50,EA,22.75,0,,A,2026-01-23,,S. Whitfield
+010000007195,4500104218,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2026-01-16,50,EA,22.75,0,,A,2026-01-22,,R. Delgado
+010000001674,4500100997,V-10006,Halvorsen Copper & Wire,MAT-CU-2210,"Copper conductor, CTC 6x12",2026-01-16,20,KG,14.2,0,,A,2026-01-18,,S. Whitfield
+010000010106,4500106185,V-10008,Vantor Electrical Parts,MAT-EL-7702,Pressure relief device,2026-01-17,18,EA,540.0,0,,A,2026-01-17,,K. Osei
+010000003095,4500101848,V-10003,Oakridge Fastener Supply,MAT-FS-3301,"Hex bolt M16x60, 8.8 HDG",2026-01-18,200,EA,1.85,0,,A,2026-01-20,,T. Nakamura
+010000000710,4500100414,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2026-01-19,20,SET,112.0,0,,A,2026-01-22,,J. Avery
+010000010771,4500106580,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-01-19,18,EA,210.0,0,,A,2026-01-24,,R. Delgado
+010000005470,4500103183,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-01-20,13,EA,389.0,0,,A,2026-01-21,,R. Delgado
+010000006393,4500103684,V-10005,Brightwater Gasket Co.,MAT-GK-5501,"Nitrile gasket set, cover",2026-01-20,16,SET,58.0,0,,A,2026-01-20,,S. Whitfield
+010000007196,4500104222,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2026-01-20,20,EA,22.75,0,,A,2026-01-22,,J. Avery
+010000009317,4500105732,V-10008,Vantor Electrical Parts,MAT-EL-7701,Winding temperature indicator,2026-01-20,14,EA,865.0,0,,A,2026-01-20,,S. Whitfield
+010000003100,4500101867,V-10003,Oakridge Fastener Supply,MAT-FS-3301,"Hex bolt M16x60, 8.8 HDG",2026-01-22,500,EA,1.85,0,,A,2026-01-22,,J. Avery
+010000010772,4500106584,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-01-22,15,EA,210.0,0,,A,2026-01-26,,T. Nakamura
+010000011634,4500106986,V-10001,Kestrel Coil Components,MAT-CL-8802,Tap changer lead set,2026-01-23,22,SET,175.0,0,,A,2026-01-24,,R. Delgado
+010000010134,4500106188,V-10008,Vantor Electrical Parts,MAT-EL-7702,Pressure relief device,2026-01-23,23,EA,540.0,5,Appearance,R,2026-01-27,RTV,S. Whitfield
+010000010785,4500106586,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-01-23,3,EA,210.0,0,,A,2026-01-24,,S. Whitfield
+010000009350,4500105736,V-10008,Vantor Electrical Parts,MAT-EL-7701,Winding temperature indicator,2026-01-24,2,EA,865.0,0,,A,2026-01-26,,K. Osei
+010000000748,4500100422,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2026-01-24,5,SET,112.0,0,,A,2026-01-29,,T. Nakamura
+010000005488,4500103202,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-01-26,3,EA,389.0,1,Joint,R,2026-01-31,SCRAP,T. Nakamura
+010000009366,4500105737,V-10008,Vantor Electrical Parts,MAT-EL-7701,Winding temperature indicator,2026-01-26,11,EA,865.0,0,,A,2026-01-29,,T. Nakamura
+010000003762,4500102187,V-10003,Oakridge Fastener Supply,MAT-FS-3302,"Stud M20x120, stainless",2026-01-27,20,EA,6.4,0,,A,2026-01-27,,S. Whitfield
+010000011644,4500107008,V-10001,Kestrel Coil Components,MAT-CL-8802,Tap changer lead set,2026-01-27,13,SET,175.0,0,,A,2026-01-28,,T. Nakamura
+010000004602,4500102707,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2026-01-28,24,EA,145.0,0,,A,2026-01-29,,R. Delgado
+010000003769,4500102191,V-10003,Oakridge Fastener Supply,MAT-FS-3302,"Stud M20x120, stainless",2026-01-28,500,EA,6.4,0,,A,2026-01-31,,R. Delgado
+010000003108,4500101878,V-10003,Oakridge Fastener Supply,MAT-FS-3301,"Hex bolt M16x60, 8.8 HDG",2026-01-29,200,EA,1.85,0,,A,2026-02-05,,K. Osei
+010000011664,4500107021,V-10001,Kestrel Coil Components,MAT-CL-8802,Tap changer lead set,2026-01-29,3,SET,175.0,0,,A,2026-01-29,,J. Avery
+010000000786,4500100445,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2026-01-30,13,SET,112.0,0,,A,2026-02-01,,J. Avery
+010000000070,4500100032,V-10002,Marlowe Insulation Works,MAT-WI-1040,"Winding insulation board, 4 mm",2026-01-30,50,EA,38.5,0,,A,2026-01-31,,R. Delgado
+010000004623,4500102714,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2026-01-30,14,EA,145.0,0,,A,2026-02-02,,K. Osei
+010000008509,4500105232,V-10007,Pinecrest Paint Systems,MAT-PT-6602,Polyurethane topcoat ANSI 70,2026-01-30,20,EA,310.0,0,,A,2026-01-31,,S. Whitfield
+010000007198,4500104225,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2026-02-01,50,EA,22.75,0,,A,2026-02-03,,T. Nakamura
+010000007830,4500104655,V-10007,Pinecrest Paint Systems,MAT-PT-6601,"Epoxy primer, gray (5 gal)",2026-02-01,21,EA,240.0,0,,A,2026-02-02,,K. Osei
+010000010824,4500106589,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-02-01,24,EA,210.0,0,,A,2026-02-05,,J. Avery
+010000007236,4500104232,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2026-02-02,500,EA,22.75,0,,A,2026-02-02,,T. Nakamura
+010000008547,4500105244,V-10007,Pinecrest Paint Systems,MAT-PT-6602,Polyurethane topcoat ANSI 70,2026-02-02,21,EA,310.0,0,,A,2026-02-03,,S. Whitfield
+010000010851,4500106595,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-02-02,4,EA,210.0,0,,A,2026-02-08,,R. Delgado
+010000005527,4500103205,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-02-02,18,EA,389.0,0,,A,2026-02-07,,R. Delgado
+010000010151,4500106192,V-10008,Vantor Electrical Parts,MAT-EL-7702,Pressure relief device,2026-02-04,9,EA,540.0,0,,A,2026-02-08,,K. Osei
+010000004662,4500102716,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2026-02-04,17,EA,145.0,0,,A,2026-02-06,,K. Osei
+010000005534,4500103213,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-02-05,4,EA,389.0,0,,A,2026-02-10,,T. Nakamura
+010000005551,4500103222,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-02-05,24,EA,389.0,0,,A,2026-02-07,,T. Nakamura
+010000007854,4500104676,V-10007,Pinecrest Paint Systems,MAT-PT-6601,"Epoxy primer, gray (5 gal)",2026-02-05,14,EA,240.0,3,Appearance,R,2026-02-15,RTV,J. Avery
+010000001701,4500101007,V-10006,Halvorsen Copper & Wire,MAT-CU-2210,"Copper conductor, CTC 6x12",2026-02-05,500,KG,14.2,0,,A,2026-02-07,,T. Nakamura
+010000003137,4500101901,V-10003,Oakridge Fastener Supply,MAT-FS-3301,"Hex bolt M16x60, 8.8 HDG",2026-02-06,500,EA,1.85,0,,A,2026-02-08,,T. Nakamura
+010000000079,4500100046,V-10002,Marlowe Insulation Works,MAT-WI-1040,"Winding insulation board, 4 mm",2026-02-06,100,EA,38.5,0,,A,2026-02-09,,T. Nakamura
+010000000815,4500100449,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2026-02-07,19,SET,112.0,0,,A,2026-02-14,,T. Nakamura
+010000004715,4500102735,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2026-02-08,5,EA,145.0,0,,A,2026-02-11,,K. Osei
+010000004701,4500102717,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2026-02-08,16,EA,145.0,0,,A,2026-02-10,,J. Avery
+010000006417,4500103708,V-10005,Brightwater Gasket Co.,MAT-GK-5501,"Nitrile gasket set, cover",2026-02-08,18,SET,58.0,0,,A,2026-02-10,,T. Nakamura
+010000007253,4500104253,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2026-02-09,500,EA,22.75,0,,A,2026-02-14,,R. Delgado
+010000003160,4500101911,V-10003,Oakridge Fastener Supply,MAT-FS-3301,"Hex bolt M16x60, 8.8 HDG",2026-02-10,25,EA,1.85,0,,A,2026-02-11,,J. Avery
+010000004738,4500102754,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2026-02-11,23,EA,145.0,0,,A,2026-02-18,,R. Delgado
+010000005581,4500103224,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-02-11,16,EA,389.0,0,,A,2026-02-11,,K. Osei
+010000004741,4500102761,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2026-02-11,17,EA,145.0,0,,A,2026-02-11,,J. Avery
+010000006453,4500103717,V-10005,Brightwater Gasket Co.,MAT-GK-5501,"Nitrile gasket set, cover",2026-02-12,13,SET,58.0,0,,A,2026-02-16,,T. Nakamura
+010000010157,4500106195,V-10008,Vantor Electrical Parts,MAT-EL-7702,Pressure relief device,2026-02-12,19,EA,540.0,0,,A,2026-02-13,,J. Avery
+010000008584,4500105246,V-10007,Pinecrest Paint Systems,MAT-PT-6602,Polyurethane topcoat ANSI 70,2026-02-14,14,EA,310.0,0,,A,2026-02-18,,K. Osei
+010000010171,4500106212,V-10008,Vantor Electrical Parts,MAT-EL-7702,Pressure relief device,2026-02-14,5,EA,540.0,1,Joint,R,2026-02-23,RTV,J. Avery
+010000000844,4500100469,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2026-02-14,11,SET,112.0,0,,A,2026-02-16,,T. Nakamura
+010000002492,4500101463,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2026-02-14,2,EA,96.0,0,,A,2026-02-16,,T. Nakamura
+010000010185,4500106220,V-10008,Vantor Electrical Parts,MAT-EL-7702,Pressure relief device,2026-02-15,21,EA,540.0,0,,A,2026-02-19,,R. Delgado
+010000009393,4500105747,V-10008,Vantor Electrical Parts,MAT-EL-7701,Winding temperature indicator,2026-02-15,11,EA,865.0,0,,A,2026-02-16,,J. Avery
+010000005608,4500103229,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-02-15,19,EA,389.0,0,,A,2026-02-16,,J. Avery
+010000002509,4500101485,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2026-02-20,24,EA,96.0,0,,A,2026-02-20,,R. Delgado
+010000001705,4500101015,V-10006,Halvorsen Copper & Wire,MAT-CU-2210,"Copper conductor, CTC 6x12",2026-02-20,100,KG,14.2,0,,A,2026-02-22,,T. Nakamura
+010000009400,4500105757,V-10008,Vantor Electrical Parts,MAT-EL-7701,Winding temperature indicator,2026-02-20,13,EA,865.0,1,Joint,R,2026-03-01,RTV,S. Whitfield
+010000002544,4500101495,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2026-02-21,7,EA,96.0,0,,A,2026-02-24,,K. Osei
+010000003168,4500101920,V-10003,Oakridge Fastener Supply,MAT-FS-3301,"Hex bolt M16x60, 8.8 HDG",2026-02-21,25,EA,1.85,0,,A,2026-02-23,,R. Delgado
+010000004751,4500102785,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2026-02-22,3,EA,145.0,0,,A,2026-02-22,,K. Osei
+010000001711,4500101025,V-10006,Halvorsen Copper & Wire,MAT-CU-2210,"Copper conductor, CTC 6x12",2026-02-22,200,KG,14.2,0,,A,2026-02-22,,R. Delgado
+010000007862,4500104698,V-10007,Pinecrest Paint Systems,MAT-PT-6601,"Epoxy primer, gray (5 gal)",2026-02-22,9,EA,240.0,0,,A,2026-02-22,,T. Nakamura
+010000006461,4500103728,V-10005,Brightwater Gasket Co.,MAT-GK-5501,"Nitrile gasket set, cover",2026-02-23,6,SET,58.0,0,,A,2026-02-25,,R. Delgado
+010000010193,4500106236,V-10008,Vantor Electrical Parts,MAT-EL-7702,Pressure relief device,2026-02-24,7,EA,540.0,0,,A,2026-02-26,,J. Avery
+010000007281,4500104261,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2026-02-24,20,EA,22.75,0,,A,2026-02-27,,J. Avery
+010000007897,4500104716,V-10007,Pinecrest Paint Systems,MAT-PT-6601,"Epoxy primer, gray (5 gal)",2026-02-25,19,EA,240.0,0,,A,2026-02-26,,J. Avery
+010000009408,4500105759,V-10008,Vantor Electrical Parts,MAT-EL-7701,Winding temperature indicator,2026-02-26,14,EA,865.0,0,,A,2026-03-01,,R. Delgado
+010000010890,4500106611,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-02-26,17,EA,210.0,0,,A,2026-03-01,,R. Delgado
+010000000856,4500100489,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2026-02-26,7,SET,112.0,0,,A,2026-02-27,,S. Whitfield
+010000007925,4500104731,V-10007,Pinecrest Paint Systems,MAT-PT-6601,"Epoxy primer, gray (5 gal)",2026-02-28,16,EA,240.0,0,,A,2026-03-03,,J. Avery
+010000004789,4500102807,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2026-03-01,15,EA,145.0,2,Documentation,R,2026-03-09,RTV,K. Osei
+010000003195,4500101922,V-10003,Oakridge Fastener Supply,MAT-FS-3301,"Hex bolt M16x60, 8.8 HDG",2026-03-01,25,EA,1.85,0,,A,2026-03-01,,T. Nakamura
+010000002573,4500101501,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2026-03-02,15,EA,96.0,0,,A,2026-03-03,,R. Delgado
+010000007300,4500104266,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2026-03-03,50,EA,22.75,0,,A,2026-03-07,,S. Whitfield
+010000010892,4500106615,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-03-03,21,EA,210.0,0,,A,2026-03-05,,S. Whitfield
+010000010929,4500106634,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-03-04,7,EA,210.0,0,,A,2026-03-05,,K. Osei
+010000009441,4500105772,V-10008,Vantor Electrical Parts,MAT-EL-7701,Winding temperature indicator,2026-03-04,6,EA,865.0,0,,A,2026-03-08,,J. Avery
+010000008589,4500105253,V-10007,Pinecrest Paint Systems,MAT-PT-6602,Polyurethane topcoat ANSI 70,2026-03-04,4,EA,310.0,0,,A,2026-03-04,,J. Avery
+010000005639,4500103233,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-03-04,8,EA,389.0,0,,A,2026-03-04,,S. Whitfield
+010000010201,4500106252,V-10008,Vantor Electrical Parts,MAT-EL-7702,Pressure relief device,2026-03-05,17,EA,540.0,0,,A,2026-03-07,,S. Whitfield
+010000011695,4500107039,V-10001,Kestrel Coil Components,MAT-CL-8802,Tap changer lead set,2026-03-05,3,SET,175.0,0,,A,2026-03-08,,R. Delgado
+010000003805,4500102213,V-10003,Oakridge Fastener Supply,MAT-FS-3302,"Stud M20x120, stainless",2026-03-06,200,EA,6.4,0,,A,2026-03-06,,R. Delgado
+010000010933,4500106657,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-03-07,18,EA,210.0,0,,A,2026-03-09,,R. Delgado
+010000007323,4500104290,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2026-03-08,10,EA,22.75,0,,A,2026-03-11,,K. Osei
+010000005653,4500103257,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-03-08,14,EA,389.0,0,,A,2026-03-08,,R. Delgado
+010000006492,4500103741,V-10005,Brightwater Gasket Co.,MAT-GK-5501,"Nitrile gasket set, cover",2026-03-08,18,SET,58.0,1,Dimensional,R,2026-03-12,RTV,K. Osei
+010000001723,4500101036,V-10006,Halvorsen Copper & Wire,MAT-CU-2210,"Copper conductor, CTC 6x12",2026-03-08,50,KG,14.2,0,,A,2026-03-08,,T. Nakamura
+010000009450,4500105791,V-10008,Vantor Electrical Parts,MAT-EL-7701,Winding temperature indicator,2026-03-08,6,EA,865.0,0,,A,2026-03-09,,J. Avery
+010000007312,4500104284,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2026-03-08,50,EA,22.75,0,,A,2026-03-08,,T. Nakamura
+010000008598,4500105275,V-10007,Pinecrest Paint Systems,MAT-PT-6602,Polyurethane topcoat ANSI 70,2026-03-09,14,EA,310.0,0,,A,2026-03-10,,K. Osei
+010000007345,4500104293,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2026-03-09,500,EA,22.75,0,,A,2026-03-11,,R. Delgado
+010000003818,4500102229,V-10003,Oakridge Fastener Supply,MAT-FS-3302,"Stud M20x120, stainless",2026-03-10,10,EA,6.4,0,,A,2026-03-12,,R. Delgado
+010000006508,4500103757,V-10005,Brightwater Gasket Co.,MAT-GK-5501,"Nitrile gasket set, cover",2026-03-10,9,SET,58.0,0,,A,2026-03-12,,T. Nakamura
+010000010941,4500106672,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-03-10,2,EA,210.0,0,,A,2026-03-10,,S. Whitfield
+010000005684,4500103276,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-03-11,15,EA,389.0,0,,A,2026-03-11,,S. Whitfield
+010000000893,4500100510,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2026-03-11,19,SET,112.0,0,,A,2026-03-12,,S. Whitfield
+010000006528,4500103778,V-10005,Brightwater Gasket Co.,MAT-GK-5501,"Nitrile gasket set, cover",2026-03-12,10,SET,58.0,0,,A,2026-03-14,,K. Osei
+010000008613,4500105294,V-10007,Pinecrest Paint Systems,MAT-PT-6602,Polyurethane topcoat ANSI 70,2026-03-12,16,EA,310.0,0,,A,2026-03-13,,J. Avery
+010000007954,4500104746,V-10007,Pinecrest Paint Systems,MAT-PT-6601,"Epoxy primer, gray (5 gal)",2026-03-13,2,EA,240.0,1,Appearance,R,2026-03-21,RTV,S. Whitfield
+010000002586,4500101506,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2026-03-13,5,EA,96.0,0,,A,2026-03-15,,R. Delgado
+010000000931,4500100531,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2026-03-13,8,SET,112.0,0,,A,2026-03-13,,T. Nakamura
+010000010957,4500106679,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-03-14,14,EA,210.0,0,,A,2026-03-16,,T. Nakamura
+010000010234,4500106259,V-10008,Vantor Electrical Parts,MAT-EL-7702,Pressure relief device,2026-03-14,19,EA,540.0,0,,A,2026-03-20,,J. Avery
+010000004806,4500102830,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2026-03-14,10,EA,145.0,0,,A,2026-03-14,,R. Delgado
+010000003840,4500102230,V-10003,Oakridge Fastener Supply,MAT-FS-3302,"Stud M20x120, stainless",2026-03-15,50,EA,6.4,0,,A,2026-03-19,,T. Nakamura
+010000007958,4500104754,V-10007,Pinecrest Paint Systems,MAT-PT-6601,"Epoxy primer, gray (5 gal)",2026-03-16,20,EA,240.0,0,,A,2026-03-20,,T. Nakamura
+010000010254,4500106261,V-10008,Vantor Electrical Parts,MAT-EL-7702,Pressure relief device,2026-03-17,24,EA,540.0,0,,A,2026-03-17,,T. Nakamura
+010000006555,4500103785,V-10005,Brightwater Gasket Co.,MAT-GK-5501,"Nitrile gasket set, cover",2026-03-17,16,SET,58.0,0,,A,2026-03-21,,T. Nakamura
+010000011721,4500107042,V-10001,Kestrel Coil Components,MAT-CL-8802,Tap changer lead set,2026-03-19,11,SET,175.0,0,,A,2026-03-22,,K. Osei
+010000010291,4500106281,V-10008,Vantor Electrical Parts,MAT-EL-7702,Pressure relief device,2026-03-19,5,EA,540.0,0,,A,2026-03-21,,R. Delgado
+010000007381,4500104316,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2026-03-20,20,EA,22.75,0,,A,2026-03-26,,S. Whitfield
+010000000972,4500100571,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2026-03-20,9,SET,112.0,0,,A,2026-03-23,,R. Delgado
+010000011756,4500107059,V-10001,Kestrel Coil Components,MAT-CL-8802,Tap changer lead set,2026-03-20,23,SET,175.0,0,,A,2026-03-21,,K. Osei
+010000000964,4500100551,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2026-03-20,24,SET,112.0,0,,A,2026-03-21,,J. Avery
+010000007983,4500104778,V-10007,Pinecrest Paint Systems,MAT-PT-6601,"Epoxy primer, gray (5 gal)",2026-03-21,21,EA,240.0,0,,A,2026-03-22,,J. Avery
+010000004839,4500102832,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2026-03-21,8,EA,145.0,0,,A,2026-03-27,,K. Osei
+010000002617,4500101521,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2026-03-23,20,EA,96.0,0,,A,2026-03-26,,T. Nakamura
+010000006569,4500103801,V-10005,Brightwater Gasket Co.,MAT-GK-5501,"Nitrile gasket set, cover",2026-03-24,18,SET,58.0,0,,A,2026-03-28,,K. Osei
+010000010324,4500106297,V-10008,Vantor Electrical Parts,MAT-EL-7702,Pressure relief device,2026-03-24,5,EA,540.0,0,,A,2026-03-28,,R. Delgado
+010000005711,4500103277,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-03-24,15,EA,389.0,0,,A,2026-03-26,,T. Nakamura
+010000011795,4500107070,V-10001,Kestrel Coil Components,MAT-CL-8802,Tap changer lead set,2026-03-24,7,SET,175.0,0,,A,2026-03-25,,T. Nakamura
+010000011808,4500107081,V-10001,Kestrel Coil Components,MAT-CL-8802,Tap changer lead set,2026-03-25,2,SET,175.0,0,,A,2026-03-27,,J. Avery
+010000007989,4500104785,V-10007,Pinecrest Paint Systems,MAT-PT-6601,"Epoxy primer, gray (5 gal)",2026-03-25,8,EA,240.0,0,,A,2026-03-27,,J. Avery
+010000008649,4500105317,V-10007,Pinecrest Paint Systems,MAT-PT-6602,Polyurethane topcoat ANSI 70,2026-03-25,21,EA,310.0,0,,A,2026-03-25,,T. Nakamura
+010000011018,4500106695,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-03-25,18,EA,210.0,0,,A,2026-04-01,,K. Osei
+010000011004,4500106690,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-03-25,2,EA,210.0,0,,A,2026-03-26,,S. Whitfield
+010000010987,4500106687,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-03-25,23,EA,210.0,0,,A,2026-03-27,,K. Osei
+010000010349,4500106312,V-10008,Vantor Electrical Parts,MAT-EL-7702,Pressure relief device,2026-03-25,12,EA,540.0,0,,A,2026-03-30,,R. Delgado
+010000010375,4500106327,V-10008,Vantor Electrical Parts,MAT-EL-7702,Pressure relief device,2026-03-25,14,EA,540.0,0,,A,2026-03-27,,J. Avery
+010000007386,4500104329,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2026-03-26,200,EA,22.75,0,,A,2026-03-30,,T. Nakamura
+010000000979,4500100578,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2026-03-27,15,SET,112.0,0,,A,2026-03-28,,J. Avery
+010000008676,4500105330,V-10007,Pinecrest Paint Systems,MAT-PT-6602,Polyurethane topcoat ANSI 70,2026-03-28,2,EA,310.0,0,,A,2026-03-28,,J. Avery
+010000006596,4500103821,V-10005,Brightwater Gasket Co.,MAT-GK-5501,"Nitrile gasket set, cover",2026-03-28,7,SET,58.0,0,,A,2026-03-29,,R. Delgado
+010000004860,4500102845,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2026-03-28,12,EA,145.0,0,,A,2026-03-29,,J. Avery
+010000003847,4500102253,V-10003,Oakridge Fastener Supply,MAT-FS-3302,"Stud M20x120, stainless",2026-03-29,200,EA,6.4,0,,A,2026-04-02,,K. Osei
+010000009479,4500105804,V-10008,Vantor Electrical Parts,MAT-EL-7701,Winding temperature indicator,2026-03-29,21,EA,865.0,0,,A,2026-03-31,,K. Osei
+010000004875,4500102864,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2026-03-29,16,EA,145.0,1,Appearance,R,2026-04-10,RTV,R. Delgado
+010000003225,4500101937,V-10003,Oakridge Fastener Supply,MAT-FS-3301,"Hex bolt M16x60, 8.8 HDG",2026-03-29,500,EA,1.85,0,,A,2026-04-01,,T. Nakamura
+010000004883,4500102867,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2026-03-30,13,EA,145.0,0,,A,2026-04-01,,K. Osei
+010000007991,4500104795,V-10007,Pinecrest Paint Systems,MAT-PT-6601,"Epoxy primer, gray (5 gal)",2026-03-30,19,EA,240.0,0,,A,2026-03-30,,J. Avery
+010000011810,4500107103,V-10001,Kestrel Coil Components,MAT-CL-8802,Tap changer lead set,2026-03-30,10,SET,175.0,0,,A,2026-03-31,,S. Whitfield
+010000002644,4500101528,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2026-03-31,20,EA,96.0,0,,A,2026-04-01,,J. Avery
+010000005747,4500103290,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-04-01,18,EA,389.0,2,Appearance,R,2026-04-09,RTV,T. Nakamura
+010000007389,4500104352,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2026-04-02,100,EA,22.75,8,Packaging,R,2026-04-06,RTV,R. Delgado
+010000004893,4500102869,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2026-04-04,15,EA,145.0,0,,A,2026-04-05,,S. Whitfield
+010000003246,4500101939,V-10003,Oakridge Fastener Supply,MAT-FS-3301,"Hex bolt M16x60, 8.8 HDG",2026-04-04,50,EA,1.85,0,,A,2026-04-06,,J. Avery
+010000009513,4500105817,V-10008,Vantor Electrical Parts,MAT-EL-7701,Winding temperature indicator,2026-04-05,18,EA,865.0,0,,A,2026-04-07,,S. Whitfield
+010000004899,4500102880,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2026-04-05,10,EA,145.0,0,,A,2026-04-05,,J. Avery
+010000003865,4500102269,V-10003,Oakridge Fastener Supply,MAT-FS-3302,"Stud M20x120, stainless",2026-04-05,200,EA,6.4,0,,A,2026-04-06,,R. Delgado
+010000011840,4500107110,V-10001,Kestrel Coil Components,MAT-CL-8802,Tap changer lead set,2026-04-06,9,SET,175.0,0,,A,2026-04-06,,S. Whitfield
+010000007996,4500104800,V-10007,Pinecrest Paint Systems,MAT-PT-6601,"Epoxy primer, gray (5 gal)",2026-04-07,5,EA,240.0,0,,A,2026-04-11,,T. Nakamura
+010000003878,4500102290,V-10003,Oakridge Fastener Supply,MAT-FS-3302,"Stud M20x120, stainless",2026-04-07,500,EA,6.4,0,,A,2026-04-08,,K. Osei
+010000008009,4500104820,V-10007,Pinecrest Paint Systems,MAT-PT-6601,"Epoxy primer, gray (5 gal)",2026-04-08,9,EA,240.0,0,,A,2026-04-10,,J. Avery
+010000005763,4500103301,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-04-08,13,EA,389.0,0,,A,2026-04-09,,J. Avery
+010000005802,4500103305,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-04-08,11,EA,389.0,0,,A,2026-04-10,,K. Osei
+010000000111,4500100067,V-10002,Marlowe Insulation Works,MAT-WI-1040,"Winding insulation board, 4 mm",2026-04-08,25,EA,38.5,0,,A,2026-04-11,,K. Osei
+010000002666,4500101536,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2026-04-08,4,EA,96.0,0,,A,2026-04-09,,K. Osei
+010000005831,4500103308,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-04-09,19,EA,389.0,2,Appearance,R,2026-04-18,SCRAP,J. Avery
+010000002683,4500101540,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2026-04-09,2,EA,96.0,0,,A,2026-04-10,,J. Avery
+010000011841,4500107111,V-10001,Kestrel Coil Components,MAT-CL-8802,Tap changer lead set,2026-04-09,2,SET,175.0,0,,A,2026-04-10,,J. Avery
+010000000987,4500100583,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2026-04-09,21,SET,112.0,0,,A,2026-04-13,,J. Avery
+010000011048,4500106702,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-04-10,10,EA,210.0,2,Dimensional,R,2026-04-20,RTV,R. Delgado
+010000008042,4500104829,V-10007,Pinecrest Paint Systems,MAT-PT-6601,"Epoxy primer, gray (5 gal)",2026-04-11,14,EA,240.0,3,Appearance,R,2026-04-20,RTV,J. Avery
+010000003284,4500101945,V-10003,Oakridge Fastener Supply,MAT-FS-3301,"Hex bolt M16x60, 8.8 HDG",2026-04-11,100,EA,1.85,0,,A,2026-04-11,,J. Avery
+010000008691,4500105338,V-10007,Pinecrest Paint Systems,MAT-PT-6602,Polyurethane topcoat ANSI 70,2026-04-12,2,EA,310.0,0,,A,2026-04-14,,T. Nakamura
+010000005840,4500103330,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-04-14,14,EA,389.0,0,,A,2026-04-15,,K. Osei
+010000008045,4500104853,V-10007,Pinecrest Paint Systems,MAT-PT-6601,"Epoxy primer, gray (5 gal)",2026-04-14,21,EA,240.0,0,,A,2026-04-15,,K. Osei
+010000008048,4500104867,V-10007,Pinecrest Paint Systems,MAT-PT-6601,"Epoxy primer, gray (5 gal)",2026-04-15,21,EA,240.0,0,,A,2026-04-16,,R. Delgado
+010000001746,4500101053,V-10006,Halvorsen Copper & Wire,MAT-CU-2210,"Copper conductor, CTC 6x12",2026-04-16,50,KG,14.2,0,,A,2026-04-19,,S. Whitfield
+010000003883,4500102302,V-10003,Oakridge Fastener Supply,MAT-FS-3302,"Stud M20x120, stainless",2026-04-17,100,EA,6.4,0,,A,2026-04-19,,T. Nakamura
+010000005851,4500103334,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-04-17,2,EA,389.0,0,,A,2026-04-19,,K. Osei
+010000003296,4500101953,V-10003,Oakridge Fastener Supply,MAT-FS-3301,"Hex bolt M16x60, 8.8 HDG",2026-04-17,200,EA,1.85,0,,A,2026-04-19,,S. Whitfield
+010000008705,4500105358,V-10007,Pinecrest Paint Systems,MAT-PT-6602,Polyurethane topcoat ANSI 70,2026-04-18,7,EA,310.0,0,,A,2026-04-20,,T. Nakamura
+010000011877,4500107112,V-10001,Kestrel Coil Components,MAT-CL-8802,Tap changer lead set,2026-04-18,2,SET,175.0,0,,A,2026-04-25,,R. Delgado
+010000010388,4500106349,V-10008,Vantor Electrical Parts,MAT-EL-7702,Pressure relief device,2026-04-19,13,EA,540.0,0,,A,2026-04-21,,S. Whitfield
+010000003895,4500102309,V-10003,Oakridge Fastener Supply,MAT-FS-3302,"Stud M20x120, stainless",2026-04-20,50,EA,6.4,0,,A,2026-04-25,,T. Nakamura
+010000000119,4500100087,V-10002,Marlowe Insulation Works,MAT-WI-1040,"Winding insulation board, 4 mm",2026-04-20,10,EA,38.5,0,,A,2026-04-23,,R. Delgado
+010000010419,4500106372,V-10008,Vantor Electrical Parts,MAT-EL-7702,Pressure relief device,2026-04-22,7,EA,540.0,0,,A,2026-04-23,,J. Avery
+010000002693,4500101554,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2026-04-23,3,EA,96.0,0,,A,2026-04-24,,J. Avery
+010000001020,4500100591,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2026-04-23,24,SET,112.0,0,,A,2026-04-24,,T. Nakamura
+010000007397,4500104374,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2026-04-24,25,EA,22.75,0,,A,2026-04-24,,R. Delgado
+010000004925,4500102881,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2026-04-24,6,EA,145.0,0,,A,2026-04-25,,S. Whitfield
+010000003335,4500101962,V-10003,Oakridge Fastener Supply,MAT-FS-3301,"Hex bolt M16x60, 8.8 HDG",2026-04-24,500,EA,1.85,0,,A,2026-04-26,,R. Delgado
+010000004938,4500102904,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2026-04-26,19,EA,145.0,1,Joint,R,2026-05-07,SCRAP,K. Osei
+010000004961,4500102921,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2026-04-27,11,EA,145.0,0,,A,2026-05-01,,R. Delgado
+010000005855,4500103338,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-04-28,20,EA,389.0,0,,A,2026-05-02,,S. Whitfield
+010000010443,4500106384,V-10008,Vantor Electrical Parts,MAT-EL-7702,Pressure relief device,2026-05-01,4,EA,540.0,0,,A,2026-05-03,,T. Nakamura
+010000000150,4500100101,V-10002,Marlowe Insulation Works,MAT-WI-1040,"Winding insulation board, 4 mm",2026-05-01,50,EA,38.5,0,,A,2026-05-02,,T. Nakamura
+010000001040,4500100596,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2026-05-02,22,SET,112.0,0,,A,2026-05-08,,R. Delgado
+010000011056,4500106706,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-05-03,20,EA,210.0,0,,A,2026-05-05,,K. Osei
+010000000177,4500100117,V-10002,Marlowe Insulation Works,MAT-WI-1040,"Winding insulation board, 4 mm",2026-05-03,50,EA,38.5,0,,A,2026-05-04,,T. Nakamura
+010000007401,4500104389,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2026-05-04,10,EA,22.75,0,,A,2026-05-06,,R. Delgado
+010000011878,4500107122,V-10001,Kestrel Coil Components,MAT-CL-8802,Tap changer lead set,2026-05-04,8,SET,175.0,0,,A,2026-05-05,,R. Delgado
+010000006634,4500103828,V-10005,Brightwater Gasket Co.,MAT-GK-5501,"Nitrile gasket set, cover",2026-05-05,2,SET,58.0,0,,A,2026-05-08,,R. Delgado
+010000002695,4500101575,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2026-05-05,4,EA,96.0,0,,A,2026-05-09,,T. Nakamura
+010000000199,4500100120,V-10002,Marlowe Insulation Works,MAT-WI-1040,"Winding insulation board, 4 mm",2026-05-05,50,EA,38.5,0,,A,2026-05-06,,K. Osei
+010000007438,4500104391,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2026-05-06,50,EA,22.75,0,,A,2026-05-07,,J. Avery
+010000000208,4500100127,V-10002,Marlowe Insulation Works,MAT-WI-1040,"Winding insulation board, 4 mm",2026-05-07,25,EA,38.5,0,,A,2026-05-07,,K. Osei
+010000003907,4500102330,V-10003,Oakridge Fastener Supply,MAT-FS-3302,"Stud M20x120, stainless",2026-05-07,50,EA,6.4,11,Appearance,R,2026-05-11,SCRAP,S. Whitfield
+010000011070,4500106718,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-05-07,5,EA,210.0,0,,A,2026-05-08,,T. Nakamura
+010000001760,4500101067,V-10006,Halvorsen Copper & Wire,MAT-CU-2210,"Copper conductor, CTC 6x12",2026-05-08,20,KG,14.2,0,,A,2026-05-18,,T. Nakamura
+010000006657,4500103844,V-10005,Brightwater Gasket Co.,MAT-GK-5501,"Nitrile gasket set, cover",2026-05-08,11,SET,58.0,0,,A,2026-05-08,,T. Nakamura
+010000003912,4500102333,V-10003,Oakridge Fastener Supply,MAT-FS-3302,"Stud M20x120, stainless",2026-05-08,25,EA,6.4,0,,A,2026-05-08,,J. Avery
+010000011091,4500106722,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-05-08,2,EA,210.0,0,,A,2026-05-11,,J. Avery
+010000007468,4500104409,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2026-05-09,200,EA,22.75,0,,A,2026-05-12,,S. Whitfield
+010000010477,4500106405,V-10008,Vantor Electrical Parts,MAT-EL-7702,Pressure relief device,2026-05-10,2,EA,540.0,0,,A,2026-05-12,,S. Whitfield
+010000005879,4500103359,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-05-10,7,EA,389.0,0,,A,2026-05-12,,K. Osei
+010000004974,4500102940,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2026-05-12,6,EA,145.0,0,,A,2026-05-12,,S. Whitfield
+010000002704,4500101599,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2026-05-12,8,EA,96.0,0,,A,2026-05-15,,R. Delgado
+010000008080,4500104889,V-10007,Pinecrest Paint Systems,MAT-PT-6601,"Epoxy primer, gray (5 gal)",2026-05-13,13,EA,240.0,0,,A,2026-05-18,,T. Nakamura
+010000010492,4500106412,V-10008,Vantor Electrical Parts,MAT-EL-7702,Pressure relief device,2026-05-14,10,EA,540.0,0,,A,2026-05-15,,R. Delgado
+010000008113,4500104912,V-10007,Pinecrest Paint Systems,MAT-PT-6601,"Epoxy primer, gray (5 gal)",2026-05-14,3,EA,240.0,0,,A,2026-05-16,,K. Osei
+010000001052,4500100598,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2026-05-14,2,SET,112.0,0,,A,2026-05-14,,R. Delgado
+010000003364,4500101975,V-10003,Oakridge Fastener Supply,MAT-FS-3301,"Hex bolt M16x60, 8.8 HDG",2026-05-14,20,EA,1.85,0,,A,2026-05-18,,T. Nakamura
+010000003357,4500101973,V-10003,Oakridge Fastener Supply,MAT-FS-3301,"Hex bolt M16x60, 8.8 HDG",2026-05-14,10,EA,1.85,0,,A,2026-05-15,,T. Nakamura
+010000003929,4500102343,V-10003,Oakridge Fastener Supply,MAT-FS-3302,"Stud M20x120, stainless",2026-05-15,100,EA,6.4,0,,A,2026-05-20,,K. Osei
+010000009549,4500105832,V-10008,Vantor Electrical Parts,MAT-EL-7701,Winding temperature indicator,2026-05-15,4,EA,865.0,0,,A,2026-05-18,,T. Nakamura
+010000011119,4500106730,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-05-16,17,EA,210.0,0,,A,2026-05-17,,K. Osei
+010000005045,4500102960,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2026-05-16,4,EA,145.0,0,,A,2026-05-19,,K. Osei
+010000005008,4500102944,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2026-05-16,18,EA,145.0,0,,A,2026-05-19,,R. Delgado
+010000011890,4500107134,V-10001,Kestrel Coil Components,MAT-CL-8802,Tap changer lead set,2026-05-18,9,SET,175.0,0,,A,2026-05-19,,S. Whitfield
+010000009567,4500105835,V-10008,Vantor Electrical Parts,MAT-EL-7701,Winding temperature indicator,2026-05-20,17,EA,865.0,0,,A,2026-05-20,,R. Delgado
+010000007500,4500104428,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2026-05-21,25,EA,22.75,0,,A,2026-05-23,,R. Delgado
+010000005901,4500103367,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-05-21,4,EA,389.0,0,,A,2026-05-23,,S. Whitfield
+010000002709,4500101609,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2026-05-21,21,EA,96.0,0,,A,2026-05-22,,J. Avery
+010000008140,4500104931,V-10007,Pinecrest Paint Systems,MAT-PT-6601,"Epoxy primer, gray (5 gal)",2026-05-21,8,EA,240.0,0,,A,2026-05-29,,R. Delgado
+010000009599,4500105841,V-10008,Vantor Electrical Parts,MAT-EL-7701,Winding temperature indicator,2026-05-25,22,EA,865.0,3,Joint,R,2026-06-02,RTV,S. Whitfield
+010000000219,4500100150,V-10002,Marlowe Insulation Works,MAT-WI-1040,"Winding insulation board, 4 mm",2026-05-25,25,EA,38.5,0,,A,2026-05-26,,K. Osei
+010000005908,4500103390,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-05-27,4,EA,389.0,0,,A,2026-05-29,,S. Whitfield
+010000011912,4500107146,V-10001,Kestrel Coil Components,MAT-CL-8802,Tap changer lead set,2026-05-28,11,SET,175.0,0,,A,2026-05-29,,T. Nakamura
+010000002722,4500101619,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2026-05-28,11,EA,96.0,0,,A,2026-05-28,,R. Delgado
+010000009618,4500105844,V-10008,Vantor Electrical Parts,MAT-EL-7701,Winding temperature indicator,2026-05-29,20,EA,865.0,0,,A,2026-06-03,,J. Avery
+010000007526,4500104432,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2026-05-29,10,EA,22.75,0,,A,2026-05-30,,T. Nakamura
+010000001057,4500100600,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2026-05-30,11,SET,112.0,0,,A,2026-06-03,,K. Osei
+010000000245,4500100160,V-10002,Marlowe Insulation Works,MAT-WI-1040,"Winding insulation board, 4 mm",2026-05-30,25,EA,38.5,0,,A,2026-05-31,,J. Avery
+010000001067,4500100624,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2026-06-01,9,SET,112.0,0,,A,2026-06-03,,K. Osei
+010000007560,4500104441,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2026-06-01,10,EA,22.75,0,,A,2026-06-03,,S. Whitfield
+010000007578,4500104453,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2026-06-02,20,EA,22.75,0,,A,2026-06-03,,J. Avery
+010000005081,4500102966,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2026-06-02,24,EA,145.0,0,,A,2026-06-03,,J. Avery
+010000003935,4500102358,V-10003,Oakridge Fastener Supply,MAT-FS-3302,"Stud M20x120, stainless",2026-06-03,200,EA,6.4,0,,A,2026-06-05,,T. Nakamura
+010000005097,4500102969,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2026-06-03,4,EA,145.0,1,Packaging,R,2026-06-09,RTV,K. Osei
+010000000249,4500100179,V-10002,Marlowe Insulation Works,MAT-WI-1040,"Winding insulation board, 4 mm",2026-06-04,200,EA,38.5,0,,A,2026-06-05,,K. Osei
+010000011948,4500107151,V-10001,Kestrel Coil Components,MAT-CL-8802,Tap changer lead set,2026-06-04,23,SET,175.0,0,,A,2026-06-05,,J. Avery
+010000010528,4500106413,V-10008,Vantor Electrical Parts,MAT-EL-7702,Pressure relief device,2026-06-04,8,EA,540.0,0,,A,2026-06-06,,J. Avery
+010000008712,4500105373,V-10007,Pinecrest Paint Systems,MAT-PT-6602,Polyurethane topcoat ANSI 70,2026-06-04,9,EA,310.0,0,,A,2026-06-08,,J. Avery
+010000005947,4500103408,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-06-05,3,EA,389.0,0,,A,2026-06-06,,K. Osei
+010000003940,4500102376,V-10003,Oakridge Fastener Supply,MAT-FS-3302,"Stud M20x120, stainless",2026-06-05,200,EA,6.4,0,,A,2026-06-06,,R. Delgado
+010000008159,4500104942,V-10007,Pinecrest Paint Systems,MAT-PT-6601,"Epoxy primer, gray (5 gal)",2026-06-06,9,EA,240.0,0,,A,2026-06-08,,J. Avery
+010000005986,4500103414,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-06-06,9,EA,389.0,0,,A,2026-06-10,,T. Nakamura
+010000001096,4500100628,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2026-06-06,20,SET,112.0,0,,A,2026-06-11,,T. Nakamura
+010000008165,4500104962,V-10007,Pinecrest Paint Systems,MAT-PT-6601,"Epoxy primer, gray (5 gal)",2026-06-07,22,EA,240.0,0,,A,2026-06-09,,K. Osei
+010000010555,4500106432,V-10008,Vantor Electrical Parts,MAT-EL-7702,Pressure relief device,2026-06-07,12,EA,540.0,0,,A,2026-06-07,,T. Nakamura
+010000008738,4500105392,V-10007,Pinecrest Paint Systems,MAT-PT-6602,Polyurethane topcoat ANSI 70,2026-06-08,23,EA,310.0,0,,A,2026-06-12,,R. Delgado
+010000007589,4500104474,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2026-06-09,500,EA,22.75,0,,A,2026-06-12,,J. Avery
+010000007606,4500104486,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2026-06-09,20,EA,22.75,0,,A,2026-06-11,,S. Whitfield
+010000002735,4500101634,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2026-06-09,7,EA,96.0,0,,A,2026-06-09,,S. Whitfield
+010000008199,4500104965,V-10007,Pinecrest Paint Systems,MAT-PT-6601,"Epoxy primer, gray (5 gal)",2026-06-10,7,EA,240.0,0,,A,2026-06-12,,R. Delgado
+010000001792,4500101085,V-10006,Halvorsen Copper & Wire,MAT-CU-2210,"Copper conductor, CTC 6x12",2026-06-10,50,KG,14.2,0,,A,2026-06-12,,K. Osei
+010000000255,4500100191,V-10002,Marlowe Insulation Works,MAT-WI-1040,"Winding insulation board, 4 mm",2026-06-10,100,EA,38.5,0,,A,2026-06-12,,S. Whitfield
+010000010568,4500106448,V-10008,Vantor Electrical Parts,MAT-EL-7702,Pressure relief device,2026-06-11,17,EA,540.0,0,,A,2026-06-13,,K. Osei
+010000010601,4500106464,V-10008,Vantor Electrical Parts,MAT-EL-7702,Pressure relief device,2026-06-12,2,EA,540.0,0,,A,2026-06-13,,S. Whitfield
+010000002748,4500101640,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2026-06-14,23,EA,96.0,0,,A,2026-06-14,,J. Avery
+010000003960,4500102384,V-10003,Oakridge Fastener Supply,MAT-FS-3302,"Stud M20x120, stainless",2026-06-14,100,EA,6.4,0,,A,2026-06-16,,S. Whitfield
+010000006678,4500103848,V-10005,Brightwater Gasket Co.,MAT-GK-5501,"Nitrile gasket set, cover",2026-06-14,11,SET,58.0,0,,A,2026-06-14,,J. Avery
+010000008749,4500105399,V-10007,Pinecrest Paint Systems,MAT-PT-6602,Polyurethane topcoat ANSI 70,2026-06-14,12,EA,310.0,2,Appearance,R,2026-06-21,RTV,S. Whitfield
+010000010634,4500106470,V-10008,Vantor Electrical Parts,MAT-EL-7702,Pressure relief device,2026-06-15,13,EA,540.0,0,,A,2026-06-18,,R. Delgado
+010000011981,4500107173,V-10001,Kestrel Coil Components,MAT-CL-8802,Tap changer lead set,2026-06-16,14,SET,175.0,0,,A,2026-06-22,,S. Whitfield
+010000003989,4500102387,V-10003,Oakridge Fastener Supply,MAT-FS-3302,"Stud M20x120, stainless",2026-06-16,500,EA,6.4,0,,A,2026-06-20,,R. Delgado
+010000006019,4500103433,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-06-17,24,EA,389.0,0,,A,2026-06-20,,K. Osei
+010000012001,4500107181,V-10001,Kestrel Coil Components,MAT-CL-8802,Tap changer lead set,2026-06-17,15,SET,175.0,3,Dimensional,R,2026-06-22,SCRAP,J. Avery
+010000006683,4500103867,V-10005,Brightwater Gasket Co.,MAT-GK-5501,"Nitrile gasket set, cover",2026-06-19,24,SET,58.0,4,Appearance,R,2026-06-28,RTV,J. Avery
+010000011125,4500106733,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-06-23,22,EA,210.0,0,,A,2026-06-27,,T. Nakamura
+010000009674,4500105896,V-10008,Vantor Electrical Parts,MAT-EL-7701,Winding temperature indicator,2026-06-24,14,EA,865.0,0,,A,2026-06-24,,S. Whitfield
+010000009648,4500105861,V-10008,Vantor Electrical Parts,MAT-EL-7701,Winding temperature indicator,2026-06-24,7,EA,865.0,0,,A,2026-06-24,,S. Whitfield
+010000009670,4500105882,V-10008,Vantor Electrical Parts,MAT-EL-7701,Winding temperature indicator,2026-06-24,18,EA,865.0,0,,A,2026-06-24,,J. Avery
+010000003992,4500102396,V-10003,Oakridge Fastener Supply,MAT-FS-3302,"Stud M20x120, stainless",2026-06-24,100,EA,6.4,0,,A,2026-06-27,,K. Osei
+010000012015,4500107191,V-10001,Kestrel Coil Components,MAT-CL-8802,Tap changer lead set,2026-06-25,11,SET,175.0,0,,A,2026-06-29,,K. Osei
+010000012039,4500107207,V-10001,Kestrel Coil Components,MAT-CL-8802,Tap changer lead set,2026-06-25,24,SET,175.0,0,,A,2026-06-27,,S. Whitfield
+010000005131,4500102974,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2026-06-25,8,EA,145.0,0,,A,2026-06-26,,K. Osei
+010000008794,4500105414,V-10007,Pinecrest Paint Systems,MAT-PT-6602,Polyurethane topcoat ANSI 70,2026-06-27,16,EA,310.0,0,,A,2026-06-30,,S. Whitfield
+010000008768,4500105400,V-10007,Pinecrest Paint Systems,MAT-PT-6602,Polyurethane topcoat ANSI 70,2026-06-27,18,EA,310.0,0,,A,2026-06-30,,J. Avery
+010000011137,4500106745,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-06-28,4,EA,210.0,0,,A,2026-06-30,,K. Osei
+010000008805,4500105431,V-10007,Pinecrest Paint Systems,MAT-PT-6602,Polyurethane topcoat ANSI 70,2026-06-28,20,EA,310.0,0,,A,2026-07-01,,K. Osei
+010000006029,4500103446,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-06-29,20,EA,389.0,0,,A,2026-06-29,,J. Avery
+010000012060,4500107231,V-10001,Kestrel Coil Components,MAT-CL-8802,Tap changer lead set,2026-06-29,15,SET,175.0,0,,A,2026-07-04,,S. Whitfield
+010000006061,4500103469,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-06-30,5,EA,389.0,0,,A,2026-07-01,,K. Osei
+010000008817,4500105452,V-10007,Pinecrest Paint Systems,MAT-PT-6602,Polyurethane topcoat ANSI 70,2026-07-02,10,EA,310.0,0,,A,2026-07-04,,J. Avery
+010000006686,4500103890,V-10005,Brightwater Gasket Co.,MAT-GK-5501,"Nitrile gasket set, cover",2026-07-04,15,SET,58.0,2,Appearance,R,2026-07-14,RTV,S. Whitfield
+010000005165,4500102998,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2026-07-04,2,EA,145.0,1,Joint,R,2026-07-09,SCRAP,R. Delgado
+010000004025,4500102419,V-10003,Oakridge Fastener Supply,MAT-FS-3302,"Stud M20x120, stainless",2026-07-05,25,EA,6.4,0,,A,2026-07-10,,J. Avery
+010000001127,4500100638,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2026-07-08,17,SET,112.0,0,,A,2026-07-09,,S. Whitfield
+010000008851,4500105461,V-10007,Pinecrest Paint Systems,MAT-PT-6602,Polyurethane topcoat ANSI 70,2026-07-08,6,EA,310.0,0,,A,2026-07-11,,J. Avery
+010000006704,4500103910,V-10005,Brightwater Gasket Co.,MAT-GK-5501,"Nitrile gasket set, cover",2026-07-08,16,SET,58.0,2,Packaging,R,2026-07-17,RTV,K. Osei
+010000010641,4500106492,V-10008,Vantor Electrical Parts,MAT-EL-7702,Pressure relief device,2026-07-08,9,EA,540.0,0,,A,2026-07-09,,R. Delgado
+010000008876,4500105483,V-10007,Pinecrest Paint Systems,MAT-PT-6602,Polyurethane topcoat ANSI 70,2026-07-09,19,EA,310.0,0,,A,2026-07-10,,S. Whitfield
+010000001803,4500101105,V-10006,Halvorsen Copper & Wire,MAT-CU-2210,"Copper conductor, CTC 6x12",2026-07-09,20,KG,14.2,0,,A,2026-07-12,,R. Delgado
+010000006730,4500103914,V-10005,Brightwater Gasket Co.,MAT-GK-5501,"Nitrile gasket set, cover",2026-07-09,18,SET,58.0,0,,A,2026-07-09,,T. Nakamura
+010000006064,4500103493,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-07-10,7,EA,389.0,0,,A,2026-07-12,,J. Avery
+010000008229,4500104970,V-10007,Pinecrest Paint Systems,MAT-PT-6601,"Epoxy primer, gray (5 gal)",2026-07-10,24,EA,240.0,5,Appearance,R,2026-07-22,RTV,T. Nakamura
+010000006085,4500103512,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-07-11,15,EA,389.0,0,,A,2026-07-13,,R. Delgado
+010000011164,4500106746,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-07-12,8,EA,210.0,0,,A,2026-07-13,,K. Osei
+010000002754,4500101655,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2026-07-13,3,EA,96.0,0,,A,2026-07-15,,K. Osei
+010000001134,4500100649,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2026-07-13,15,SET,112.0,0,,A,2026-07-16,,R. Delgado
+010000008896,4500105486,V-10007,Pinecrest Paint Systems,MAT-PT-6602,Polyurethane topcoat ANSI 70,2026-07-15,10,EA,310.0,0,,A,2026-07-18,,T. Nakamura
+010000011172,4500106748,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-07-15,2,EA,210.0,0,,A,2026-07-16,,J. Avery
+010000003393,4500101993,V-10003,Oakridge Fastener Supply,MAT-FS-3301,"Hex bolt M16x60, 8.8 HDG",2026-07-16,25,EA,1.85,0,,A,2026-07-18,,J. Avery
+010000000280,4500100206,V-10002,Marlowe Insulation Works,MAT-WI-1040,"Winding insulation board, 4 mm",2026-07-16,25,EA,38.5,0,,A,2026-07-16,,R. Delgado
+010000011205,4500106757,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-07-17,3,EA,210.0,0,,A,2026-07-19,,R. Delgado
+010000006742,4500103937,V-10005,Brightwater Gasket Co.,MAT-GK-5501,"Nitrile gasket set, cover",2026-07-17,12,SET,58.0,0,,A,2026-07-17,,J. Avery
+010000012095,4500107250,V-10001,Kestrel Coil Components,MAT-CL-8802,Tap changer lead set,2026-07-17,23,SET,175.0,0,,A,2026-07-18,,S. Whitfield
+010000003424,4500101995,V-10003,Oakridge Fastener Supply,MAT-FS-3301,"Hex bolt M16x60, 8.8 HDG",2026-07-17,20,EA,1.85,0,,A,2026-07-24,,S. Whitfield
+010000006756,4500103949,V-10005,Brightwater Gasket Co.,MAT-GK-5501,"Nitrile gasket set, cover",2026-07-18,18,SET,58.0,4,Dimensional,R,2026-07-22,RTV,S. Whitfield
+010000001836,4500101107,V-10006,Halvorsen Copper & Wire,MAT-CU-2210,"Copper conductor, CTC 6x12",2026-07-18,10,KG,14.2,0,,A,2026-07-19,,R. Delgado
+010000011218,4500106761,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-07-18,23,EA,210.0,0,,A,2026-07-19,,K. Osei
+010000007629,4500104500,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2026-07-18,25,EA,22.75,0,,A,2026-07-20,,J. Avery
+010000002762,4500101675,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2026-07-18,2,EA,96.0,0,,A,2026-07-18,,J. Avery
+010000005186,4500103014,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2026-07-19,16,EA,145.0,0,,A,2026-07-20,,S. Whitfield
+010000011241,4500106778,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-07-20,14,EA,210.0,0,,A,2026-07-21,,K. Osei
+010000009688,4500105920,V-10008,Vantor Electrical Parts,MAT-EL-7701,Winding temperature indicator,2026-07-20,2,EA,865.0,0,,A,2026-07-23,,T. Nakamura
+010000000316,4500100218,V-10002,Marlowe Insulation Works,MAT-WI-1040,"Winding insulation board, 4 mm",2026-07-20,100,EA,38.5,0,,A,2026-07-25,,R. Delgado
+010000003428,4500102005,V-10003,Oakridge Fastener Supply,MAT-FS-3301,"Hex bolt M16x60, 8.8 HDG",2026-07-21,20,EA,1.85,0,,A,2026-07-22,,J. Avery
+010000001151,4500100659,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2026-07-22,6,SET,112.0,0,,A,2026-07-27,,S. Whitfield
+010000004045,4500102425,V-10003,Oakridge Fastener Supply,MAT-FS-3302,"Stud M20x120, stainless",2026-07-22,500,EA,6.4,0,,A,2026-07-24,,R. Delgado
+010000008241,4500104985,V-10007,Pinecrest Paint Systems,MAT-PT-6601,"Epoxy primer, gray (5 gal)",2026-07-23,6,EA,240.0,0,,A,2026-07-24,,K. Osei
+010000012116,4500107263,V-10001,Kestrel Coil Components,MAT-CL-8802,Tap changer lead set,2026-07-24,16,SET,175.0,0,,A,2026-07-26,,K. Osei
+010000009699,4500105926,V-10008,Vantor Electrical Parts,MAT-EL-7701,Winding temperature indicator,2026-07-24,16,EA,865.0,0,,A,2026-07-28,,R. Delgado
+010000001839,4500101125,V-10006,Halvorsen Copper & Wire,MAT-CU-2210,"Copper conductor, CTC 6x12",2026-07-24,500,KG,14.2,0,,A,2026-07-24,,J. Avery
+010000001867,4500101129,V-10006,Halvorsen Copper & Wire,MAT-CU-2210,"Copper conductor, CTC 6x12",2026-07-24,20,KG,14.2,0,,A,2026-08-02,,S. Whitfield
+010000009700,4500105928,V-10008,Vantor Electrical Parts,MAT-EL-7701,Winding temperature indicator,2026-07-26,6,EA,865.0,0,,A,2026-07-28,,K. Osei
+010000011279,4500106781,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-07-27,16,EA,210.0,0,,A,2026-07-29,,S. Whitfield
+010000011286,4500106786,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-07-28,21,EA,210.0,0,,A,2026-07-31,,S. Whitfield
+010000012155,4500107274,V-10001,Kestrel Coil Components,MAT-CL-8802,Tap changer lead set,2026-07-28,17,SET,175.0,0,,A,2026-07-29,,J. Avery
+010000004051,4500102433,V-10003,Oakridge Fastener Supply,MAT-FS-3302,"Stud M20x120, stainless",2026-07-28,50,EA,6.4,0,,A,2026-07-31,,J. Avery
+010000011292,4500106797,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-07-29,12,EA,210.0,0,,A,2026-08-02,,R. Delgado
+010000001884,4500101137,V-10006,Halvorsen Copper & Wire,MAT-CU-2210,"Copper conductor, CTC 6x12",2026-07-29,200,KG,14.2,0,,A,2026-07-30,,S. Whitfield
+010000005220,4500103029,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2026-07-29,23,EA,145.0,0,,A,2026-07-30,,T. Nakamura
+010000008929,4500105503,V-10007,Pinecrest Paint Systems,MAT-PT-6602,Polyurethane topcoat ANSI 70,2026-07-29,14,EA,310.0,0,,A,2026-07-30,,T. Nakamura
+010000003446,4500102010,V-10003,Oakridge Fastener Supply,MAT-FS-3301,"Hex bolt M16x60, 8.8 HDG",2026-07-30,20,EA,1.85,0,,A,2026-08-03,,S. Whitfield
+010000003460,4500102023,V-10003,Oakridge Fastener Supply,MAT-FS-3301,"Hex bolt M16x60, 8.8 HDG",2026-07-30,50,EA,1.85,0,,A,2026-07-30,,J. Avery
+010000011302,4500106809,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-07-30,2,EA,210.0,0,,A,2026-07-30,,K. Osei
+010000001898,4500101138,V-10006,Halvorsen Copper & Wire,MAT-CU-2210,"Copper conductor, CTC 6x12",2026-07-31,100,KG,14.2,0,,A,2026-08-03,,R. Delgado
+010000006758,4500103952,V-10005,Brightwater Gasket Co.,MAT-GK-5501,"Nitrile gasket set, cover",2026-07-31,21,SET,58.0,0,,A,2026-07-31,,T. Nakamura
+010000006792,4500103958,V-10005,Brightwater Gasket Co.,MAT-GK-5501,"Nitrile gasket set, cover",2026-08-01,15,SET,58.0,0,,A,2026-08-02,,T. Nakamura
+010000007660,4500104512,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2026-08-01,500,EA,22.75,0,,A,2026-08-02,,T. Nakamura
+010000007667,4500104518,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2026-08-01,200,EA,22.75,0,,A,2026-08-03,,K. Osei
+010000012174,4500107276,V-10001,Kestrel Coil Components,MAT-CL-8802,Tap changer lead set,2026-08-01,24,SET,175.0,0,,A,2026-08-04,,J. Avery
+010000007672,4500104527,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2026-08-02,50,EA,22.75,0,,A,2026-08-03,,J. Avery
+010000008257,4500104999,V-10007,Pinecrest Paint Systems,MAT-PT-6601,"Epoxy primer, gray (5 gal)",2026-08-03,16,EA,240.0,0,,A,2026-08-05,,T. Nakamura
+010000009719,4500105942,V-10008,Vantor Electrical Parts,MAT-EL-7701,Winding temperature indicator,2026-08-03,13,EA,865.0,0,,A,2026-08-03,,R. Delgado
+010000012186,4500107296,V-10001,Kestrel Coil Components,MAT-CL-8802,Tap changer lead set,2026-08-03,15,SET,175.0,0,,A,2026-08-05,,R. Delgado
+010000008273,4500105019,V-10007,Pinecrest Paint Systems,MAT-PT-6601,"Epoxy primer, gray (5 gal)",2026-08-04,6,EA,240.0,0,,A,2026-08-06,,R. Delgado
+010000000344,4500100237,V-10002,Marlowe Insulation Works,MAT-WI-1040,"Winding insulation board, 4 mm",2026-08-04,50,EA,38.5,0,,A,2026-08-04,,J. Avery
+010000005238,4500103044,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2026-08-05,23,EA,145.0,0,,A,2026-08-06,,T. Nakamura
+010000011308,4500106810,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-08-07,5,EA,210.0,0,,A,2026-08-09,,K. Osei
+010000006095,4500103531,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-08-07,6,EA,389.0,0,,A,2026-08-09,,R. Delgado
+010000011325,4500106830,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-08-09,4,EA,210.0,0,,A,2026-08-12,,K. Osei
+010000011312,4500106828,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-08-09,9,EA,210.0,0,,A,2026-08-10,,J. Avery
+010000004069,4500102454,V-10003,Oakridge Fastener Supply,MAT-FS-3302,"Stud M20x120, stainless",2026-08-10,200,EA,6.4,0,,A,2026-08-11,,R. Delgado
+010000000362,4500100254,V-10002,Marlowe Insulation Works,MAT-WI-1040,"Winding insulation board, 4 mm",2026-08-12,20,EA,38.5,0,,A,2026-08-14,,T. Nakamura
+010000008948,4500105518,V-10007,Pinecrest Paint Systems,MAT-PT-6602,Polyurethane topcoat ANSI 70,2026-08-12,20,EA,310.0,0,,A,2026-08-12,,R. Delgado
+010000006132,4500103532,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-08-15,12,EA,389.0,0,,A,2026-08-16,,R. Delgado
+010000012200,4500107318,V-10001,Kestrel Coil Components,MAT-CL-8802,Tap changer lead set,2026-08-15,18,SET,175.0,0,,A,2026-08-15,,T. Nakamura
+010000008984,4500105538,V-10007,Pinecrest Paint Systems,MAT-PT-6602,Polyurethane topcoat ANSI 70,2026-08-15,14,EA,310.0,0,,A,2026-08-16,,T. Nakamura
+010000007704,4500104528,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2026-08-16,10,EA,22.75,0,,A,2026-08-18,,R. Delgado
+010000003497,4500102025,V-10003,Oakridge Fastener Supply,MAT-FS-3301,"Hex bolt M16x60, 8.8 HDG",2026-08-17,500,EA,1.85,0,,A,2026-08-18,,T. Nakamura
+010000006151,4500103534,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-08-17,12,EA,389.0,0,,A,2026-08-19,,R. Delgado
+010000008996,4500105543,V-10007,Pinecrest Paint Systems,MAT-PT-6602,Polyurethane topcoat ANSI 70,2026-08-17,10,EA,310.0,0,,A,2026-08-19,,K. Osei
+010000002785,4500101681,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2026-08-17,15,EA,96.0,0,,A,2026-08-19,,T. Nakamura
+010000001185,4500100671,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2026-08-18,19,SET,112.0,0,,A,2026-08-24,,R. Delgado
+010000000396,4500100255,V-10002,Marlowe Insulation Works,MAT-WI-1040,"Winding insulation board, 4 mm",2026-08-18,200,EA,38.5,0,,A,2026-08-20,,J. Avery
+010000006168,4500103557,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-08-18,21,EA,389.0,0,,A,2026-08-19,,J. Avery
+010000004076,4500102455,V-10003,Oakridge Fastener Supply,MAT-FS-3302,"Stud M20x120, stainless",2026-08-18,20,EA,6.4,0,,A,2026-08-18,,T. Nakamura
+010000009749,4500105949,V-10008,Vantor Electrical Parts,MAT-EL-7701,Winding temperature indicator,2026-08-19,17,EA,865.0,0,,A,2026-08-20,,S. Whitfield
+010000001915,4500101159,V-10006,Halvorsen Copper & Wire,MAT-CU-2210,"Copper conductor, CTC 6x12",2026-08-19,500,KG,14.2,0,,A,2026-08-19,,K. Osei
+010000004108,4500102457,V-10003,Oakridge Fastener Supply,MAT-FS-3302,"Stud M20x120, stainless",2026-08-19,10,EA,6.4,0,,A,2026-08-24,,R. Delgado
+010000009786,4500105967,V-10008,Vantor Electrical Parts,MAT-EL-7701,Winding temperature indicator,2026-08-20,3,EA,865.0,0,,A,2026-08-21,,T. Nakamura
+010000006177,4500103575,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-08-22,18,EA,389.0,0,,A,2026-08-24,,K. Osei
+010000004138,4500102462,V-10003,Oakridge Fastener Supply,MAT-FS-3302,"Stud M20x120, stainless",2026-08-22,50,EA,6.4,0,,A,2026-08-28,,T. Nakamura
+010000006209,4500103581,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-08-22,20,EA,389.0,3,Dimensional,R,2026-08-26,RTV,J. Avery
+010000009792,4500105973,V-10008,Vantor Electrical Parts,MAT-EL-7701,Winding temperature indicator,2026-08-22,21,EA,865.0,0,,A,2026-08-26,,T. Nakamura
+010000001193,4500100691,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2026-08-22,14,SET,112.0,0,,A,2026-08-23,,T. Nakamura
+010000001195,4500100696,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2026-08-23,15,SET,112.0,0,,A,2026-08-25,,S. Whitfield
+010000002810,4500101692,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2026-08-23,5,EA,96.0,0,,A,2026-08-23,,R. Delgado
+010000004147,4500102478,V-10003,Oakridge Fastener Supply,MAT-FS-3302,"Stud M20x120, stainless",2026-08-23,20,EA,6.4,0,,A,2026-08-26,,R. Delgado
+010000010647,4500106510,V-10008,Vantor Electrical Parts,MAT-EL-7702,Pressure relief device,2026-08-23,3,EA,540.0,1,Documentation,R,2026-09-02,SCRAP,S. Whitfield
+010000004154,4500102482,V-10003,Oakridge Fastener Supply,MAT-FS-3302,"Stud M20x120, stainless",2026-08-24,20,EA,6.4,0,,A,2026-08-26,,K. Osei
+010000006815,4500103981,V-10005,Brightwater Gasket Co.,MAT-GK-5501,"Nitrile gasket set, cover",2026-08-24,12,SET,58.0,0,,A,2026-08-25,,R. Delgado
+010000007709,4500104538,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2026-08-25,500,EA,22.75,0,,A,2026-08-28,,J. Avery
+010000011343,4500106838,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-08-27,13,EA,210.0,0,,A,2026-08-31,,J. Avery
+010000006228,4500103584,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-08-27,12,EA,389.0,0,,A,2026-08-31,,K. Osei
+010000000419,4500100258,V-10002,Marlowe Insulation Works,MAT-WI-1040,"Winding insulation board, 4 mm",2026-08-27,100,EA,38.5,0,,A,2026-08-29,,J. Avery
+010000011374,4500106846,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-08-28,9,EA,210.0,0,,A,2026-08-30,,J. Avery
+010000006836,4500104004,V-10005,Brightwater Gasket Co.,MAT-GK-5501,"Nitrile gasket set, cover",2026-08-29,13,SET,58.0,0,,A,2026-08-30,,J. Avery
+010000001220,4500100699,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2026-08-31,16,SET,112.0,0,,A,2026-08-31,,S. Whitfield
+010000003518,4500102035,V-10003,Oakridge Fastener Supply,MAT-FS-3301,"Hex bolt M16x60, 8.8 HDG",2026-08-31,50,EA,1.85,0,,A,2026-09-02,,J. Avery
+010000008294,4500105042,V-10007,Pinecrest Paint Systems,MAT-PT-6601,"Epoxy primer, gray (5 gal)",2026-08-31,14,EA,240.0,0,,A,2026-09-01,,S. Whitfield
+010000000439,4500100263,V-10002,Marlowe Insulation Works,MAT-WI-1040,"Winding insulation board, 4 mm",2026-09-01,25,EA,38.5,0,,A,2026-09-06,,S. Whitfield
+010000002846,4500101706,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2026-09-02,12,EA,96.0,0,,A,2026-09-08,,S. Whitfield
+010000001943,4500101174,V-10006,Halvorsen Copper & Wire,MAT-CU-2210,"Copper conductor, CTC 6x12",2026-09-02,50,KG,14.2,0,,A,2026-09-02,,T. Nakamura
+010000009032,4500105567,V-10007,Pinecrest Paint Systems,MAT-PT-6602,Polyurethane topcoat ANSI 70,2026-09-02,10,EA,310.0,0,,A,2026-09-02,,R. Delgado
+010000001941,4500101163,V-10006,Halvorsen Copper & Wire,MAT-CU-2210,"Copper conductor, CTC 6x12",2026-09-02,50,KG,14.2,0,,A,2026-09-07,,T. Nakamura
+010000000446,4500100271,V-10002,Marlowe Insulation Works,MAT-WI-1040,"Winding insulation board, 4 mm",2026-09-04,500,EA,38.5,0,,A,2026-09-04,,R. Delgado
+010000001980,4500101176,V-10006,Halvorsen Copper & Wire,MAT-CU-2210,"Copper conductor, CTC 6x12",2026-09-04,100,KG,14.2,0,,A,2026-09-05,,R. Delgado
+010000009806,4500105989,V-10008,Vantor Electrical Parts,MAT-EL-7701,Winding temperature indicator,2026-09-04,23,EA,865.0,0,,A,2026-09-14,,S. Whitfield
+010000000447,4500100275,V-10002,Marlowe Insulation Works,MAT-WI-1040,"Winding insulation board, 4 mm",2026-09-05,500,EA,38.5,0,,A,2026-09-07,,R. Delgado
+010000009814,4500106008,V-10008,Vantor Electrical Parts,MAT-EL-7701,Winding temperature indicator,2026-09-05,10,EA,865.0,0,,A,2026-09-10,,T. Nakamura
+010000009060,4500105581,V-10007,Pinecrest Paint Systems,MAT-PT-6602,Polyurethane topcoat ANSI 70,2026-09-07,9,EA,310.0,0,,A,2026-09-15,,R. Delgado
+010000011396,4500106861,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-09-07,6,EA,210.0,0,,A,2026-09-11,,K. Osei
+010000002878,4500101710,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2026-09-08,9,EA,96.0,0,,A,2026-09-10,,T. Nakamura
+010000009083,4500105593,V-10007,Pinecrest Paint Systems,MAT-PT-6602,Polyurethane topcoat ANSI 70,2026-09-10,21,EA,310.0,0,,A,2026-09-12,,K. Osei
+010000007732,4500104547,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2026-09-11,200,EA,22.75,0,,A,2026-09-12,,S. Whitfield
+010000002895,4500101726,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2026-09-11,9,EA,96.0,0,,A,2026-09-13,,R. Delgado
+010000009829,4500106023,V-10008,Vantor Electrical Parts,MAT-EL-7701,Winding temperature indicator,2026-09-11,22,EA,865.0,0,,A,2026-09-13,,R. Delgado
+010000005246,4500103059,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2026-09-11,9,EA,145.0,0,,A,2026-09-11,,K. Osei
+010000011419,4500106867,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-09-11,3,EA,210.0,0,,A,2026-09-13,,K. Osei
+010000006260,4500103586,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-09-11,10,EA,389.0,0,,A,2026-09-12,,J. Avery
+010000002009,4500101188,V-10006,Halvorsen Copper & Wire,MAT-CU-2210,"Copper conductor, CTC 6x12",2026-09-13,10,KG,14.2,0,,A,2026-09-14,,J. Avery
+010000011437,4500106876,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-09-14,6,EA,210.0,0,,A,2026-09-16,,R. Delgado
+010000006296,4500103603,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-09-15,23,EA,389.0,0,,A,2026-09-18,,J. Avery
+010000009854,4500106033,V-10008,Vantor Electrical Parts,MAT-EL-7701,Winding temperature indicator,2026-09-17,8,EA,865.0,0,,A,2026-09-22,,T. Nakamura
+010000002896,4500101743,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2026-09-18,5,EA,96.0,0,,A,2026-09-24,,K. Osei
+010000000466,4500100292,V-10002,Marlowe Insulation Works,MAT-WI-1040,"Winding insulation board, 4 mm",2026-09-19,50,EA,38.5,0,,A,2026-09-19,,K. Osei
+010000009093,4500105605,V-10007,Pinecrest Paint Systems,MAT-PT-6602,Polyurethane topcoat ANSI 70,2026-09-20,16,EA,310.0,0,,A,2026-09-20,,R. Delgado
+010000008330,4500105054,V-10007,Pinecrest Paint Systems,MAT-PT-6601,"Epoxy primer, gray (5 gal)",2026-09-23,10,EA,240.0,0,,A,2026-09-24,,J. Avery
+010000002031,4500101204,V-10006,Halvorsen Copper & Wire,MAT-CU-2210,"Copper conductor, CTC 6x12",2026-09-24,25,KG,14.2,0,,A,2026-09-26,,S. Whitfield
+010000000477,4500100315,V-10002,Marlowe Insulation Works,MAT-WI-1040,"Winding insulation board, 4 mm",2026-09-25,25,EA,38.5,0,,A,2026-09-26,,R. Delgado
+010000009126,4500105624,V-10007,Pinecrest Paint Systems,MAT-PT-6602,Polyurethane topcoat ANSI 70,2026-09-26,24,EA,310.0,0,,A,2026-09-30,,T. Nakamura
+010000007771,4500104566,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2026-09-26,50,EA,22.75,0,,A,2026-09-29,,K. Osei
+010000007775,4500104588,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2026-09-27,10,EA,22.75,0,,A,2026-09-28,,R. Delgado
+010000004160,4500102506,V-10003,Oakridge Fastener Supply,MAT-FS-3302,"Stud M20x120, stainless",2026-09-27,100,EA,6.4,0,,A,2026-09-29,,K. Osei
+010000001258,4500100723,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2026-09-27,5,SET,112.0,0,,A,2026-09-30,,K. Osei
+010000008364,4500105077,V-10007,Pinecrest Paint Systems,MAT-PT-6601,"Epoxy primer, gray (5 gal)",2026-09-29,19,EA,240.0,0,,A,2026-09-30,,J. Avery
+010000002061,4500101217,V-10006,Halvorsen Copper & Wire,MAT-CU-2210,"Copper conductor, CTC 6x12",2026-09-30,500,KG,14.2,0,,A,2026-10-03,,R. Delgado
+010000012226,4500107330,V-10001,Kestrel Coil Components,MAT-CL-8802,Tap changer lead set,2026-09-30,11,SET,175.0,0,,A,2026-10-05,,T. Nakamura
+010000009865,4500106056,V-10008,Vantor Electrical Parts,MAT-EL-7701,Winding temperature indicator,2026-09-30,12,EA,865.0,0,,A,2026-10-03,,S. Whitfield
+010000006846,4500104028,V-10005,Brightwater Gasket Co.,MAT-GK-5501,"Nitrile gasket set, cover",2026-10-01,6,SET,58.0,0,,A,2026-10-05,,T. Nakamura
+010000000510,4500100316,V-10002,Marlowe Insulation Works,MAT-WI-1040,"Winding insulation board, 4 mm",2026-10-01,500,EA,38.5,0,,A,2026-10-01,,S. Whitfield
+010000002909,4500101746,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2026-10-02,22,EA,96.0,0,,A,2026-10-04,,S. Whitfield
+010000003556,4500102038,V-10003,Oakridge Fastener Supply,MAT-FS-3301,"Hex bolt M16x60, 8.8 HDG",2026-10-02,50,EA,1.85,0,,A,2026-10-04,,K. Osei
+010000005255,4500103078,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2026-10-02,18,EA,145.0,2,Joint,R,2026-10-10,PENDING,J. Avery
+010000002088,4500101238,V-10006,Halvorsen Copper & Wire,MAT-CU-2210,"Copper conductor, CTC 6x12",2026-10-03,25,KG,14.2,0,,A,2026-10-04,,T. Nakamura
+010000012246,4500107371,V-10001,Kestrel Coil Components,MAT-CL-8802,Tap changer lead set,2026-10-03,23,SET,175.0,0,,A,2026-10-03,,T. Nakamura
+010000012244,4500107351,V-10001,Kestrel Coil Components,MAT-CL-8802,Tap changer lead set,2026-10-03,16,SET,175.0,0,,A,2026-10-04,,T. Nakamura
+010000012267,4500107389,V-10001,Kestrel Coil Components,MAT-CL-8802,Tap changer lead set,2026-10-05,15,SET,175.0,0,,A,2026-10-09,,T. Nakamura
+010000008370,4500105099,V-10007,Pinecrest Paint Systems,MAT-PT-6601,"Epoxy primer, gray (5 gal)",2026-10-05,23,EA,240.0,4,Documentation,R,2026-10-13,PENDING,K. Osei
+010000002937,4500101748,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2026-10-07,5,EA,96.0,0,,A,2026-10-07,,K. Osei
+010000009140,4500105642,V-10007,Pinecrest Paint Systems,MAT-PT-6602,Polyurethane topcoat ANSI 70,2026-10-07,23,EA,310.0,0,,A,2026-10-08,,S. Whitfield
+010000008393,4500105111,V-10007,Pinecrest Paint Systems,MAT-PT-6601,"Epoxy primer, gray (5 gal)",2026-10-08,9,EA,240.0,0,,A,2026-10-09,,J. Avery
+010000010661,4500106511,V-10008,Vantor Electrical Parts,MAT-EL-7702,Pressure relief device,2026-10-09,16,EA,540.0,0,,A,2026-10-10,,R. Delgado
+010000003565,4500102042,V-10003,Oakridge Fastener Supply,MAT-FS-3301,"Hex bolt M16x60, 8.8 HDG",2026-10-09,20,EA,1.85,0,,A,2026-10-12,,J. Avery
+010000002103,4500101247,V-10006,Halvorsen Copper & Wire,MAT-CU-2210,"Copper conductor, CTC 6x12",2026-10-09,100,KG,14.2,0,,A,2026-10-09,,T. Nakamura
+010000003578,4500102064,V-10003,Oakridge Fastener Supply,MAT-FS-3301,"Hex bolt M16x60, 8.8 HDG",2026-10-09,100,EA,1.85,0,,A,2026-10-11,,S. Whitfield
+010000006300,4500103608,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-10-10,4,EA,389.0,1,Joint,R,2026-10-20,PENDING,J. Avery
+010000006872,4500104046,V-10005,Brightwater Gasket Co.,MAT-GK-5501,"Nitrile gasket set, cover",2026-10-10,18,SET,58.0,0,,A,2026-10-10,,J. Avery
+010000006901,4500104059,V-10005,Brightwater Gasket Co.,MAT-GK-5501,"Nitrile gasket set, cover",2026-10-10,14,SET,58.0,0,,A,2026-10-10,,R. Delgado
+010000007789,4500104605,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2026-10-11,50,EA,22.75,0,,A,2026-10-11,,K. Osei
+010000001295,4500100746,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2026-10-11,4,SET,112.0,0,,A,2026-10-12,,R. Delgado
+010000005292,4500103089,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2026-10-12,8,EA,145.0,0,,A,2026-10-16,,K. Osei
+010000003586,4500102085,V-10003,Oakridge Fastener Supply,MAT-FS-3301,"Hex bolt M16x60, 8.8 HDG",2026-10-13,500,EA,1.85,0,,A,2026-10-16,,S. Whitfield
+010000001331,4500100770,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2026-10-13,23,SET,112.0,0,,A,2026-10-16,,S. Whitfield
+010000001302,4500100751,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2026-10-13,4,SET,112.0,0,,A,2026-10-13,,T. Nakamura
+010000010666,4500106517,V-10008,Vantor Electrical Parts,MAT-EL-7702,Pressure relief device,2026-10-13,17,EA,540.0,0,,A,2026-10-15,,K. Osei
+010000006302,4500103624,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-10-14,11,EA,389.0,0,,A,2026-10-15,,K. Osei
+010000004199,4500102529,V-10003,Oakridge Fastener Supply,MAT-FS-3302,"Stud M20x120, stainless",2026-10-14,500,EA,6.4,0,,A,2026-10-14,,K. Osei
+010000001360,4500100773,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2026-10-14,13,SET,112.0,0,,A,2026-10-15,,S. Whitfield
+010000004211,4500102536,V-10003,Oakridge Fastener Supply,MAT-FS-3302,"Stud M20x120, stainless",2026-10-14,200,EA,6.4,0,,A,2026-10-15,,R. Delgado
+010000005330,4500103091,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2026-10-14,18,EA,145.0,4,Appearance,R,2026-10-21,PENDING,R. Delgado
+010000012280,4500107409,V-10001,Kestrel Coil Components,MAT-CL-8802,Tap changer lead set,2026-10-14,20,SET,175.0,0,,A,2026-10-17,,K. Osei
+010000002142,4500101270,V-10006,Halvorsen Copper & Wire,MAT-CU-2210,"Copper conductor, CTC 6x12",2026-10-15,100,KG,14.2,0,,A,2026-10-19,,S. Whitfield
+010000009147,4500105653,V-10007,Pinecrest Paint Systems,MAT-PT-6602,Polyurethane topcoat ANSI 70,2026-10-16,7,EA,310.0,0,,A,2026-10-17,,K. Osei
+010000001389,4500100782,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2026-10-18,18,SET,112.0,0,,A,2026-10-19,,K. Osei
+010000002153,4500101271,V-10006,Halvorsen Copper & Wire,MAT-CU-2210,"Copper conductor, CTC 6x12",2026-10-20,100,KG,14.2,0,,A,2026-10-20,,K. Osei
+010000006939,4500104064,V-10005,Brightwater Gasket Co.,MAT-GK-5501,"Nitrile gasket set, cover",2026-10-20,10,SET,58.0,0,,A,2026-10-25,,R. Delgado
+010000003600,4500102099,V-10003,Oakridge Fastener Supply,MAT-FS-3301,"Hex bolt M16x60, 8.8 HDG",2026-10-21,10,EA,1.85,0,,A,2026-10-29,,S. Whitfield
+010000002170,4500101278,V-10006,Halvorsen Copper & Wire,MAT-CU-2210,"Copper conductor, CTC 6x12",2026-10-23,20,KG,14.2,0,,A,2026-10-28,,S. Whitfield
+010000011473,4500106889,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-10-23,6,EA,210.0,0,,A,2026-10-24,,R. Delgado
+010000003631,4500102119,V-10003,Oakridge Fastener Supply,MAT-FS-3301,"Hex bolt M16x60, 8.8 HDG",2026-10-24,20,EA,1.85,0,,A,2026-10-25,,T. Nakamura
+010000010675,4500106529,V-10008,Vantor Electrical Parts,MAT-EL-7702,Pressure relief device,2026-10-24,12,EA,540.0,0,,A,2026-10-29,,R. Delgado
+010000006976,4500104085,V-10005,Brightwater Gasket Co.,MAT-GK-5501,"Nitrile gasket set, cover",2026-10-25,17,SET,58.0,0,,A,2026-10-26,,R. Delgado
+010000002938,4500101762,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2026-10-25,24,EA,96.0,0,,A,2026-10-27,,T. Nakamura
+010000000537,4500100319,V-10002,Marlowe Insulation Works,MAT-WI-1040,"Winding insulation board, 4 mm",2026-10-26,20,EA,38.5,0,,A,2026-10-28,,S. Whitfield
+010000005374,4500103114,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2026-10-27,21,EA,145.0,0,,A,2026-10-29,,K. Osei
+010000005349,4500103109,V-10004,Tessaro Castings,MAT-CS-4410,"Radiator valve body, cast",2026-10-27,3,EA,145.0,0,,A,2026-10-28,,T. Nakamura
+010000010679,4500106537,V-10008,Vantor Electrical Parts,MAT-EL-7702,Pressure relief device,2026-10-27,10,EA,540.0,0,,A,2026-10-30,,J. Avery
+010000002959,4500101766,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2026-10-28,16,EA,96.0,0,,A,2026-10-28,,R. Delgado
+010000001402,4500100786,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2026-10-29,24,SET,112.0,0,,A,2026-10-30,,J. Avery
+010000012288,4500107428,V-10001,Kestrel Coil Components,MAT-CL-8802,Tap changer lead set,2026-10-29,24,SET,175.0,0,,A,2026-10-30,,J. Avery
+010000011479,4500106904,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-10-30,22,EA,210.0,0,,A,2026-10-30,,S. Whitfield
+010000008419,4500105121,V-10007,Pinecrest Paint Systems,MAT-PT-6601,"Epoxy primer, gray (5 gal)",2026-10-30,12,EA,240.0,0,,A,2026-11-02,,S. Whitfield
+010000009156,4500105663,V-10007,Pinecrest Paint Systems,MAT-PT-6602,Polyurethane topcoat ANSI 70,2026-11-02,11,EA,310.0,0,,A,2026-11-07,,T. Nakamura
+010000004256,4500102555,V-10003,Oakridge Fastener Supply,MAT-FS-3302,"Stud M20x120, stainless",2026-11-03,200,EA,6.4,0,,A,2026-11-05,,J. Avery
+010000004239,4500102548,V-10003,Oakridge Fastener Supply,MAT-FS-3302,"Stud M20x120, stainless",2026-11-03,10,EA,6.4,0,,A,2026-11-03,,R. Delgado
+010000009892,4500106069,V-10008,Vantor Electrical Parts,MAT-EL-7701,Winding temperature indicator,2026-11-03,6,EA,865.0,0,,A,2026-11-07,,R. Delgado
+010000001409,4500100800,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2026-11-04,23,SET,112.0,0,,A,2026-11-06,,K. Osei
+010000007799,4500104617,V-10005,Brightwater Gasket Co.,MAT-GK-5502,"Cork-nitrile gasket, 600 mm",2026-11-05,100,EA,22.75,4,Documentation,R,2026-11-12,PENDING,S. Whitfield
+010000006981,4500104092,V-10005,Brightwater Gasket Co.,MAT-GK-5501,"Nitrile gasket set, cover",2026-11-05,4,SET,58.0,0,,A,2026-11-05,,S. Whitfield
+010000002985,4500101790,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2026-11-05,21,EA,96.0,0,,PENDING,,,J. Avery
+010000006319,4500103635,V-10004,Tessaro Castings,MAT-CS-4415,"Bushing turret flange, cast",2026-11-06,18,EA,389.0,1,Appearance,R,2026-11-12,PENDING,S. Whitfield
+010000009192,4500105673,V-10007,Pinecrest Paint Systems,MAT-PT-6602,Polyurethane topcoat ANSI 70,2026-11-07,15,EA,310.0,0,,A,2026-11-08,,R. Delgado
+010000001410,4500100818,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2026-11-08,21,SET,112.0,0,,A,2026-11-09,,K. Osei
+010000003009,4500101794,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2026-11-08,7,EA,96.0,0,,A,2026-11-09,,T. Nakamura
+010000003670,4500102126,V-10003,Oakridge Fastener Supply,MAT-FS-3301,"Hex bolt M16x60, 8.8 HDG",2026-11-08,20,EA,1.85,0,,A,2026-11-10,,S. Whitfield
+010000001429,4500100833,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2026-11-10,2,SET,112.0,0,,PENDING,,,S. Whitfield
+010000003025,4500101813,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2026-11-11,17,EA,96.0,0,,A,2026-11-12,,J. Avery
+010000009221,4500105687,V-10007,Pinecrest Paint Systems,MAT-PT-6602,Polyurethane topcoat ANSI 70,2026-11-13,10,EA,310.0,0,,A,2026-11-14,,T. Nakamura
+010000000573,4500100343,V-10002,Marlowe Insulation Works,MAT-WI-1040,"Winding insulation board, 4 mm",2026-11-13,20,EA,38.5,0,,A,2026-11-21,,T. Nakamura
+010000003042,4500101836,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2026-11-14,13,EA,96.0,0,,PENDING,,,J. Avery
+010000003074,4500101845,V-10006,Halvorsen Copper & Wire,MAT-CU-2215,Copper busbar 10x100,2026-11-16,13,EA,96.0,0,,PENDING,,,K. Osei
+010000003695,4500102138,V-10003,Oakridge Fastener Supply,MAT-FS-3301,"Hex bolt M16x60, 8.8 HDG",2026-11-16,25,EA,1.85,0,,A,2026-11-20,,S. Whitfield
+010000007015,4500104101,V-10005,Brightwater Gasket Co.,MAT-GK-5501,"Nitrile gasket set, cover",2026-11-16,9,SET,58.0,0,,PENDING,,,J. Avery
+010000004277,4500102559,V-10003,Oakridge Fastener Supply,MAT-FS-3302,"Stud M20x120, stainless",2026-11-17,25,EA,6.4,0,,A,2026-11-19,,T. Nakamura
+010000004312,4500102578,V-10003,Oakridge Fastener Supply,MAT-FS-3302,"Stud M20x120, stainless",2026-11-17,100,EA,6.4,0,,PENDING,,,K. Osei
+010000001433,4500100844,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2026-11-18,18,SET,112.0,0,,PENDING,,,K. Osei
+010000001471,4500100856,V-10002,Marlowe Insulation Works,MAT-WI-1041,Insulation spacer kit,2026-11-19,9,SET,112.0,0,,PENDING,,,T. Nakamura
+010000004347,4500102581,V-10003,Oakridge Fastener Supply,MAT-FS-3302,"Stud M20x120, stainless",2026-11-19,50,EA,6.4,0,,PENDING,,,K. Osei
+010000002209,4500101297,V-10006,Halvorsen Copper & Wire,MAT-CU-2210,"Copper conductor, CTC 6x12",2026-11-20,100,KG,14.2,0,,A,2026-11-20,,K. Osei
+010000008441,4500105130,V-10007,Pinecrest Paint Systems,MAT-PT-6601,"Epoxy primer, gray (5 gal)",2026-11-21,13,EA,240.0,0,,A,2026-11-21,,R. Delgado
+010000011480,4500106912,V-10001,Kestrel Coil Components,MAT-CL-8801,Lead exit coil assembly,2026-11-21,6,EA,210.0,0,,PENDING,,,T. Nakamura
+010000002229,4500101315,V-10006,Halvorsen Copper & Wire,MAT-CU-2210,"Copper conductor, CTC 6x12",2026-11-21,200,KG,14.2,0,,A,2026-11-21,,T. Nakamura
