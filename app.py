@@ -107,8 +107,10 @@ c[5].metric(f"Blocked · {lots_label(k['blocked_lots'])}", f"${k['blocked_value'
 scorecard = s.supplier_scorecard(view, th, today)
 flagged = scorecard[scorecard["SCAR flag"] != ""]
 if len(flagged):
-    st.error("**Corrective action recommended:** " +
-             " · ".join(f"**{name}** ({why})" for name, why in zip(flagged["Supplier"], flagged["SCAR flag"])))
+    # Amber, not red: this is a supplier-quality flag, not an app error.
+    st.warning("**Supplier alert: SCAR recommended.** " +
+               " · ".join(f"**{name}** ({why})" for name, why in zip(flagged["Supplier"], flagged["SCAR flag"])),
+               icon="⚠️")
 
 tabs = st.tabs(["Overview", "Supplier scorecard", "Defects", "Stock & aging", "Movements (MB51)", "About"])
 
