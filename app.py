@@ -129,7 +129,7 @@ with tabs[0]:
             y=alt.Y("acceptance_pct:Q", title="Acceptance %", scale=alt.Scale(domain=[70, 100])),
             tooltip=[alt.Tooltip("acceptance_pct:Q", format=".1f", title="Acceptance %")]))
         .resolve_scale(y="independent").properties(height=300),
-        use_container_width=True)
+        width="stretch")
 
     flow = s.flow_summary(view)
     b.markdown("**Where received quantity went**")
@@ -141,7 +141,7 @@ with tabs[0]:
                             legend=None),
             tooltip=["outcome", alt.Tooltip("qty:Q", format=","), alt.Tooltip("pct:Q", format=".2f")])
         .properties(height=300),
-        use_container_width=True)
+        width="stretch")
     b.caption("Log scale so the small reject flows stay visible next to the releases.")
 
 # ---------------------------------------------------------------------------
@@ -154,19 +154,19 @@ with tabs[1]:
         .apply(lambda r: ["background-color: rgba(242,92,84,.18)" if r["SCAR flag"] else
                           ("background-color: rgba(47,191,113,.14)" if r["Skip-lot candidate"] else "")] * len(r),
                axis=1),
-        hide_index=True, use_container_width=True,
+        hide_index=True, width="stretch",
         column_config={"SCAR flag": st.column_config.TextColumn(width="large"),
                        "Skip-lot candidate": st.column_config.CheckboxColumn("Skip-lot")})
     x, y = st.columns(2)
     x.markdown("**🔴 SCAR candidates**")
     if len(flagged):
-        x.dataframe(flagged[["Supplier", "SCAR flag", "Top defect"]], hide_index=True, use_container_width=True)
+        x.dataframe(flagged[["Supplier", "SCAR flag", "Top defect"]], hide_index=True, width="stretch")
     else:
         x.write("None at current thresholds.")
     skip = scorecard[scorecard["Skip-lot candidate"]]
     y.markdown("**🟢 Skip-lot candidates** (reduced inspection)")
     if len(skip):
-        y.dataframe(skip[["Supplier", "Accept run", "PPM"]], hide_index=True, use_container_width=True,
+        y.dataframe(skip[["Supplier", "Accept run", "PPM"]], hide_index=True, width="stretch",
                     column_config={"PPM": st.column_config.NumberColumn(format="%.0f")})
     else:
         y.write("None at current thresholds.")
@@ -190,7 +190,7 @@ with tabs[2]:
             y=alt.Y("cum_pct:Q", title="Cumulative %", scale=alt.Scale(domain=[0, 100])),
             tooltip=[alt.Tooltip("cum_pct:Q", format=".0f")]))
         .resolve_scale(y="independent").properties(height=300),
-        use_container_width=True)
+        width="stretch")
 
     rej = view[view["usage_decision"] == s.UD_REJECT]
     heat = rej.groupby(["supplier_name", "defect_category"]).size().rename("lots").reset_index()
@@ -208,12 +208,12 @@ with tabs[2]:
             + alt.Chart(heat).mark_text(color="white", fontWeight="bold").encode(
                 x=alt.X("defect_category:N", sort=s.DEFECT_CATEGORIES), y="supplier_name:N", text="lots:Q")
             .properties(height=300),
-            use_container_width=True)
+            width="stretch")
     st.markdown("**Rejected lots**")
     st.dataframe(rej[["inspection_lot", "gr_date", "supplier_name", "material", "material_desc", "qty_received",
                       "qty_rejected", "defect_category", "disposition", "inspector"]]
                  .sort_values("gr_date", ascending=False),
-                 hide_index=True, use_container_width=True,
+                 hide_index=True, width="stretch",
                  column_config={"inspection_lot": "Insp. lot", "gr_date": st.column_config.DateColumn("GR date"),
                                 "supplier_name": "Supplier", "material": "Material", "material_desc": "Description",
                                 "qty_received": "Received", "qty_rejected": "Rejected",
@@ -239,13 +239,13 @@ with tabs[3]:
                                 legend=alt.Legend(orient="top", direction="vertical", title=None, labelLimit=300)),
                 tooltip=["stock", "bucket", alt.Tooltip("value_usd:Q", format="$,.0f")])
             .properties(height=300),
-            use_container_width=True)
+            width="stretch")
         b.markdown("**Open items, oldest first**")
         b.dataframe(ag[["inspection_lot", "stock", "supplier_name", "material", "qty", "unit", "value_usd",
                         "age_days"]].rename(columns={"inspection_lot": "Insp. lot", "stock": "Stock",
                                                      "supplier_name": "Supplier", "material": "Material",
                                                      "qty": "Qty", "unit": "Unit"}),
-                    hide_index=True, use_container_width=True,
+                    hide_index=True, width="stretch",
                     column_config={"value_usd": st.column_config.NumberColumn("Value", format="$%.0f"),
                                    "age_days": st.column_config.ProgressColumn(
                                        "Age (days)", min_value=0, max_value=max(30, int(ag["age_days"].max())),
@@ -259,7 +259,7 @@ with tabs[4]:
     types = st.multiselect("Movement types", sorted(s.MOVEMENT_TEXT),
                            format_func=lambda m: f"{m} – {s.MOVEMENT_TEXT[m]}", placeholder="All movement types")
     mv = view_mvts if not types else view_mvts[view_mvts["movement_type"].isin(types)]
-    st.dataframe(mv.sort_values("posting_date", ascending=False), hide_index=True, use_container_width=True,
+    st.dataframe(mv.sort_values("posting_date", ascending=False), hide_index=True, width="stretch",
                  column_config={"material_doc": "Mat. doc", "posting_date": st.column_config.DateColumn("Posting date"),
                                 "movement_type": "Mvt", "movement_text": "Movement", "material": "Material",
                                 "supplier_name": "Supplier", "inspection_lot": "Insp. lot", "quantity": "Qty",
@@ -272,7 +272,7 @@ with tabs[4]:
         st.success("All lots balance: GR = released + blocked, and nothing returned or scrapped beyond what was blocked.")
     else:
         st.warning(f"{len(issues)} lot(s) don't balance. Investigate the posting before trusting stock figures.")
-        st.dataframe(issues, hide_index=True, use_container_width=True)
+        st.dataframe(issues, hide_index=True, width="stretch")
         if source.startswith("Demo"):
             st.caption("The demo data contains one deliberately short 321 posting to show this check working.")
 
